@@ -1,0 +1,6 @@
+# Pinned versions for the routing service image (Chapter 15)
+ortools==9.15.6755
+numpy==2.5.3
+fastapi==0.143.0
+pydantic==2.13.5
+uvicorn==0.53.0

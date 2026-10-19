@@ -1,0 +1,1025 @@
+order_id,delivery_date,customer_area,lat,lon,items,slot,notes
+HH-1001,2026-09-14,Roswell,34.02145,-84.37291,dining table,4pm-6pm,"2nd floor, no elevator"
+HH-1002,2026-09-14,Midtown,33.77699,-84.41428,dishwasher,10am-12pm,3rd floor walk-up
+HH-1003,2026-09-14,Brookhaven,33.86308,-84.38214,range; sectional,12-14,
+HH-1004,2026-09-14,Buckhead,33.84780,-84.37327,dining table,10am-12pm,
+HH-1005,2026-09-14,Midtown,33.77728,-84.37388,armchair; sectional,10:00-12:00,
+HH-1006,2026-09-14,Marietta,33.94443,-84.58648,dining table; dresser,12pm-2pm,call 30 min ahead
+HH-1007,2026-09-14,Kennesaw,34.04349,-84.63610,mattress; sectional; bed frame,8-10,3rd floor walk-up
+HH-1008,2026-09-14,Sandy Springs,33.92494,-84.35210,sofa,10am-12pm,gate code 4411
+HH-1009,2026-09-14,Midtown,33.78826,-84.37267,dishwasher; dryer; dresser,8:00-10:00,call 30 min ahead
+HH-1010,2026-09-14,Brookhaven,33.87249,-84.35930,range; dining table; refrigerator,4pm-6pm,3rd floor walk-up
+HH-1011,2026-09-14,Kirkwood,33.76534,-84.32857,washer; dryer,14:00-16:00,
+HH-1012,2026-09-14,Sandy Springs,33.93558,-84.37962,range,8am-10am,
+HH-1013,2026-09-14,Peachtree Corners,33.98148,-84.21052,dresser,8am-10am,gate code 4411
+HH-1014,2026-09-14,Buckhead,33.83324,-84.38779,range; dryer,16-18,
+HH-1015,2026-09-14,Alpharetta,34.07382,-84.29192,armchair,10:00-12:00,
+HH-1016,2026-09-14,West End,33.75776,-84.40781,dishwasher,10-12,
+HH-1017,2026-09-14,Marietta,33.94600,-84.56792,dishwasher; sofa,16:00-18:00,
+HH-1018,2026-09-14,Peachtree Corners,33.96178,-84.21754,washer,10:00-12:00,gate code 4411
+HH-1019,2026-09-14,Tucker,33.85654,-84.18548,dining table,12:00-14:00,
+HH-1020,2026-09-14,Brookhaven,33.85772,-84.34685,refrigerator,4pm-6pm,
+HH-1021,2026-09-14,Kirkwood,33.76852,-84.30138,range,12pm-2pm,3rd floor walk-up
+HH-1022,2026-09-14,Alpharetta,34.07654,-84.33859,armchair; dresser,8:00-10:00,
+HH-1023,2026-09-14,Peachtree Corners,33.97746,-84.21425,mattress,10-12,call 30 min ahead
+HH-1023,2026-09-14,Peachtree Corners,33.97746,-84.21425,mattress,10-12,call 30 min ahead
+HH-1024,2026-09-14,Buckhead,33.83867,-84.39469,armchair,16:00-18:00,"2nd floor, no elevator"
+HH-1025,2026-09-14,Alpharetta,34.08402,-84.29177,dining table; sectional,12-14,
+HH-1026,2026-09-14,Peachtree Corners,33.95494,-84.22544,bed frame,16:00-18:00,3rd floor walk-up
+HH-1027,2026-09-14,Midtown,33.78312,-84.39571,sofa; mattress; dresser,14-16,gate code 4411
+HH-1028,2026-09-14,Tucker,33.85669,-84.24483,washer; mattress,8:00-10:00,
+HH-1028,2026-09-14,Tucker,33.85669,-84.24483,washer; mattress,8:00-10:00,
+HH-1029,2026-09-14,Midtown,33.77338,-84.38696,dryer; armchair,8-10,
+HH-1030,2026-09-14,Alpharetta,34.07912,-84.30656,washer,14:00-16:00,gate code 4411
+HH-1031,2026-09-14,Sandy Springs,33.92818,-84.32401,refrigerator; washer; dishwasher,14-16,call 30 min ahead
+HH-1032,2026-09-14,Kirkwood,33.73128,-84.29710,sofa,10-12,3rd floor walk-up
+HH-1033,2026-09-14,Midtown,33.77531,-84.38474,sectional,8:00-10:00,"2nd floor, no elevator"
+HH-1034,2026-09-14,Brookhaven,33.85470,-84.36528,armchair; dryer; sofa,8-10,
+HH-1035,2026-09-14,Roswell,34.03712,-84.36522,mattress; washer,10-12,
+HH-1036,2026-09-14,Alpharetta,34.06689,-84.29296,sectional; dryer,10am-12pm,3rd floor walk-up
+HH-1037,2026-09-14,Brookhaven,33.87543,-84.35687,dresser; sofa,8:00-10:00,call 30 min ahead
+HH-1037,2026-09-14,Brookhaven,33.87543,-84.35687,dresser; sofa,8:00-10:00,call 30 min ahead
+HH-1038,2026-09-14,West End,33.73214,-84.39745,sofa; dining table,12-14,
+HH-1039,2026-09-14,Buckhead,33.86337,-84.40545,washer,10-12,3rd floor walk-up
+HH-1040,2026-09-14,Roswell,34.02747,-84.36423,refrigerator,8am-10am,gate code 4411
+HH-1041,2026-09-14,Smyrna,33.89089,-84.52215,range; dresser,8-10,
+HH-1042,2026-09-14,Marietta,33.95503,-84.55302,dryer,14-16,
+HH-1043,2026-09-14,Midtown,33.76816,-84.34986,refrigerator; sectional,8am-10am,gate code 4411
+HH-1044,2026-09-14,Roswell,34.03024,-84.31324,range; dining table,10am-12pm,
+HH-1044,2026-09-14,Roswell,34.03024,-84.31324,range; dining table,10am-12pm,
+HH-1045,2026-09-14,Peachtree Corners,33.95999,-84.22024,dishwasher,10am-12pm,
+HH-1046,2026-09-14,Kirkwood,33.76353,-84.33838,range; dryer,8am-10am,
+HH-1047,2026-09-14,Buckhead,33.83054,-84.36460,dining table,8-10,
+HH-1048,2026-09-14,Alpharetta,34.08078,-84.27955,dryer; sectional,8am-10am,gate code 4411
+HH-1049,2026-09-14,Roswell,34.03020,-84.36266,dresser; bed frame,16-18,
+HH-1050,2026-09-14,Decatur,33.77811,-84.28782,refrigerator; armchair,2pm-4pm,
+HH-1051,2026-09-14,Marietta,33.95917,-84.56095,mattress; armchair,4pm-6pm,
+HH-1052,2026-09-15,Sandy Springs,33.90423,-84.38753,sectional; range,10:00-12:00,
+HH-1053,2026-09-15,Decatur,33.78235,-84.29805,mattress; range,8:00-10:00,"2nd floor, no elevator"
+HH-1054,2026-09-15,Sandy Springs,33.92707,-84.37277,bed frame,8am-10am,call 30 min ahead
+HH-1055,2026-09-15,Buckhead,33.86663,-84.34675,armchair; refrigerator,16-18,3rd floor walk-up
+HH-1056,2026-09-15,Brookhaven,33.87587,-84.33383,range; bed frame,2pm-4pm,call 30 min ahead
+HH-1057,2026-09-15,Alpharetta,34.09206,-84.29914,dryer,16:00-18:00,
+HH-1058,2026-09-15,Decatur,33.81967,-84.28149,washer; refrigerator,14-16,gate code 4411
+HH-1059,2026-09-15,Decatur,33.77539,-84.31142,sectional; sofa,10:00-12:00,gate code 4411
+HH-1060,2026-09-15,Peachtree Corners,33.96930,-84.25315,dishwasher,12:00-14:00,
+HH-1061,2026-09-15,Peachtree Corners,,,washer,16-18,3rd floor walk-up
+HH-1061,2026-09-15,Peachtree Corners,,,washer,16-18,3rd floor walk-up
+HH-1062,2026-09-15,Buckhead,33.84117,-84.38376,mattress; range,12-14,"2nd floor, no elevator"
+HH-1063,2026-09-15,Decatur,33.80321,-84.29209,dining table,12pm-2pm,
+HH-1064,2026-09-15,Sandy Springs,33.93183,-84.37794,sofa,12-14,
+HH-1065,2026-09-15,Marietta,33.95604,-84.54246,dishwasher; washer,10:00-12:00,gate code 4411
+HH-1066,2026-09-15,Decatur,33.75097,-84.30922,sectional,10:00-12:00,
+HH-1067,2026-09-15,Peachtree Corners,33.97880,-84.19788,washer,10am-12pm,
+HH-1068,2026-09-15,Kirkwood,33.75750,-84.31988,washer; armchair,10-12,
+HH-1069,2026-09-15,West End,33.73500,-84.40211,armchair; dishwasher; dining table,8-10,
+HH-1070,2026-09-15,Midtown,33.78730,-84.37299,sectional,2pm-4pm,"2nd floor, no elevator"
+HH-1071,2026-09-15,Marietta,,,sectional,8-10,
+HH-1072,2026-09-15,Alpharetta,34.08407,-84.30668,dishwasher; dresser,8-10,call 30 min ahead
+HH-1073,2026-09-15,Midtown,33.74861,-84.38849,dishwasher; refrigerator; armchair,14:00-16:00,"2nd floor, no elevator"
+HH-1074,2026-09-15,Kennesaw,34.01165,-84.61097,dining table; refrigerator; bed frame,14-16,3rd floor walk-up
+HH-1075,2026-09-15,Kirkwood,33.74056,-84.29486,dryer,14:00-16:00,
+HH-1076,2026-09-15,Dunwoody,33.96750,-84.32727,dresser; sectional,10-12,
+HH-1077,2026-09-15,Sandy Springs,33.93422,-84.36992,refrigerator; dryer; mattress,8am-10am,call 30 min ahead
+HH-1078,2026-09-15,Midtown,33.80603,-84.40539,refrigerator; dresser; bed frame,14-16,
+HH-1079,2026-09-15,Buckhead,33.84995,-84.40933,dryer; armchair,10am-12pm,
+HH-1080,2026-09-15,Alpharetta,34.07525,-84.29165,sectional; dresser,4pm-6pm,call 30 min ahead
+HH-1081,2026-09-15,Marietta,33.94416,-84.56342,sofa,16-18,call 30 min ahead
+HH-1082,2026-09-15,Sandy Springs,33.92541,-84.36428,dining table,16:00-18:00,
+HH-1083,2026-09-15,Buckhead,33.83851,-84.36382,bed frame,12pm-2pm,3rd floor walk-up
+HH-1084,2026-09-15,Roswell,34.02722,-84.33144,range; washer; refrigerator,10:00-12:00,gate code 4411
+HH-1085,2026-09-15,Sandy Springs,33.94850,-84.36865,mattress,12-14,gate code 4411
+HH-1086,2026-09-15,Roswell,34.04084,-84.35551,refrigerator,10am-12pm,
+HH-1087,2026-09-15,Buckhead,33.84276,-84.36118,refrigerator,10am-12pm,3rd floor walk-up
+HH-1088,2026-09-15,Kirkwood,33.73454,-84.33460,armchair,8:00-10:00,call 30 min ahead
+HH-1089,2026-09-15,Smyrna,33.87290,-84.51039,dining table,8am-10am,3rd floor walk-up
+HH-1090,2026-09-15,Roswell,,,washer; refrigerator; dresser,12pm-2pm,3rd floor walk-up
+HH-1091,2026-09-15,Alpharetta,34.06639,-84.29794,dresser; bed frame,12pm-2pm,3rd floor walk-up
+HH-1092,2026-09-15,Buckhead,33.83399,-84.39914,refrigerator; dishwasher,16-18,call 30 min ahead
+HH-1093,2026-09-15,Midtown,33.78389,-84.38178,dresser; washer; dining table,8am-10am,
+HH-1094,2026-09-15,Roswell,34.01773,-84.35467,washer,16-18,3rd floor walk-up
+HH-1095,2026-09-15,Peachtree Corners,33.95225,-84.22264,sofa; dishwasher,12pm-2pm,3rd floor walk-up
+HH-1096,2026-09-15,Midtown,33.77642,-84.38713,dresser,14:00-16:00,gate code 4411
+HH-1097,2026-09-15,Alpharetta,34.07226,-84.27307,washer,10:00-12:00,3rd floor walk-up
+HH-1098,2026-09-16,Dunwoody,33.96355,-84.33056,bed frame; dishwasher,8am-10am,
+HH-1099,2026-09-16,Alpharetta,34.07388,-84.27850,bed frame,16-18,
+HH-1100,2026-09-16,Tucker,33.85079,-84.21785,mattress; sectional; refrigerator,12-14,call 30 min ahead
+HH-1101,2026-09-16,Kirkwood,33.74169,-84.30652,mattress; washer; bed frame,10am-12pm,
+HH-1102,2026-09-16,Peachtree Corners,33.97898,-84.21168,sofa,14-16,call 30 min ahead
+HH-1103,2026-09-16,Alpharetta,34.05401,-84.28848,range,8:00-10:00,
+HH-1104,2026-09-16,Marietta,33.95810,-84.54180,bed frame; refrigerator,10:00-12:00,gate code 4411
+HH-1105,2026-09-16,Brookhaven,33.89740,-84.33626,dryer,14:00-16:00,
+HH-1106,2026-09-16,Alpharetta,34.08218,-84.31227,washer; mattress,16:00-18:00,3rd floor walk-up
+HH-1107,2026-09-16,Decatur,33.77705,-84.31835,armchair,8am-10am,
+HH-1108,2026-09-16,Sandy Springs,33.92020,-84.39552,dining table,8am-10am,
+HH-1109,2026-09-16,Kennesaw,34.01095,-84.60668,dresser,2pm-4pm,
+HH-1110,2026-09-16,Tucker,33.84032,-84.23723,dishwasher; range; refrigerator,12-14,call 30 min ahead
+HH-1111,2026-09-16,Sandy Springs,33.94371,-84.34266,range; bed frame,14-16,
+HH-1112,2026-09-16,Buckhead,33.81022,-84.36937,armchair; dining table; sectional,10am-12pm,"2nd floor, no elevator"
+HH-1113,2026-09-16,Kirkwood,33.76265,-84.32146,dryer; mattress,10am-12pm,"2nd floor, no elevator"
+HH-1114,2026-09-16,Alpharetta,34.06972,-84.25282,dining table; refrigerator,12:00-14:00,
+HH-1115,2026-09-16,Roswell,34.05260,-84.35966,washer; dresser,8am-10am,gate code 4411
+HH-1116,2026-09-16,Sandy Springs,33.92585,-84.37633,bed frame,14-16,
+HH-1117,2026-09-16,Smyrna,33.89865,-84.51970,sectional,8:00-10:00,
+HH-1118,2026-09-16,Buckhead,33.80575,-84.35871,refrigerator,8am-10am,
+HH-1119,2026-09-16,Dunwoody,33.95075,-84.34521,range,12:00-14:00,
+HH-1120,2026-09-16,Tucker,33.86141,-84.21098,bed frame; sofa; dryer,12pm-2pm,gate code 4411
+HH-1121,2026-09-16,Sandy Springs,33.91492,-84.36417,dryer,16-18,
+HH-1122,2026-09-16,Midtown,33.78208,-84.38186,dining table,12-14,call 30 min ahead
+HH-1123,2026-09-16,Decatur,33.79398,-84.31267,washer,8am-10am,3rd floor walk-up
+HH-1124,2026-09-16,Midtown,33.76550,-84.37935,range,8am-10am,3rd floor walk-up
+HH-1125,2026-09-16,Dunwoody,33.96263,-84.31997,dining table; range,8am-10am,
+HH-1126,2026-09-16,Dunwoody,33.95851,-84.33108,dishwasher; bed frame,16:00-18:00,
+HH-1127,2026-09-16,West End,33.72580,-84.39062,mattress; sectional,16-18,gate code 4411
+HH-1128,2026-09-16,Decatur,33.79002,-84.29636,range; bed frame; dresser,12pm-2pm,call 30 min ahead
+HH-1129,2026-09-16,Kennesaw,34.03651,-84.63119,washer; mattress,2pm-4pm,
+HH-1130,2026-09-16,Alpharetta,34.08435,-84.28955,sectional,4pm-6pm,
+HH-1131,2026-09-16,Buckhead,33.84849,-84.37729,mattress; bed frame; sectional,8-10,3rd floor walk-up
+HH-1132,2026-09-16,Buckhead,33.82462,-84.38972,washer; range; dishwasher,2pm-4pm,
+HH-1133,2026-09-16,Smyrna,33.89173,-84.52926,refrigerator,8am-10am,call 30 min ahead
+HH-1134,2026-09-16,Kirkwood,33.75511,-84.32452,sofa; dining table,8:00-10:00,
+HH-1135,2026-09-16,Dunwoody,33.95664,-84.31081,dresser; bed frame; dishwasher,8:00-10:00,
+HH-1136,2026-09-16,Kirkwood,,,sectional,10:00-12:00,call 30 min ahead
+HH-1137,2026-09-16,Midtown,33.78023,-84.35601,armchair,10:00-12:00,
+HH-1138,2026-09-16,Sandy Springs,33.92106,-84.39063,dishwasher,10-12,"2nd floor, no elevator"
+HH-1138,2026-09-16,Sandy Springs,33.92106,-84.39063,dishwasher,10-12,"2nd floor, no elevator"
+HH-1139,2026-09-16,Brookhaven,33.85889,-84.34978,dishwasher; refrigerator,12:00-14:00,3rd floor walk-up
+HH-1140,2026-09-16,Kennesaw,34.00623,-84.59681,sofa; dryer; bed frame,8am-10am,
+HH-1141,2026-09-16,West End,33.71479,-84.42718,sectional,12-14,call 30 min ahead
+HH-1141,2026-09-16,West End,33.71479,-84.42718,sectional,12-14,call 30 min ahead
+HH-1142,2026-09-16,Brookhaven,33.87654,-84.35159,dishwasher,2pm-4pm,
+HH-1142,2026-09-16,Brookhaven,33.87654,-84.35159,dishwasher,2pm-4pm,
+HH-1143,2026-09-16,Buckhead,33.82657,-84.39181,dishwasher,10-12,
+HH-1144,2026-09-16,Kirkwood,33.73900,-84.32589,armchair,12pm-2pm,
+HH-1145,2026-09-16,Marietta,33.94385,-84.59991,dresser,12pm-2pm,3rd floor walk-up
+HH-1146,2026-09-16,Kirkwood,33.76077,-84.32273,refrigerator,8:00-10:00,"2nd floor, no elevator"
+HH-1147,2026-09-17,Roswell,34.03962,-84.34332,dishwasher; dining table,10am-12pm,
+HH-1148,2026-09-17,Brookhaven,33.84744,-84.33296,sofa; range; dryer,12:00-14:00,"2nd floor, no elevator"
+HH-1149,2026-09-17,Sandy Springs,33.90562,-84.39226,sofa; dryer,10am-12pm,
+HH-1150,2026-09-17,Midtown,33.80185,-84.39978,dresser; sectional,16:00-18:00,
+HH-1151,2026-09-17,Buckhead,33.82947,-84.37895,dining table; refrigerator,10-12,
+HH-1152,2026-09-17,Buckhead,33.85437,-84.35997,armchair,10-12,
+HH-1153,2026-09-17,East Point,33.68238,-84.44976,sofa; dresser; washer,12:00-14:00,call 30 min ahead
+HH-1154,2026-09-17,Peachtree Corners,33.96247,-84.26263,dryer,14-16,
+HH-1155,2026-09-17,Alpharetta,34.07280,-84.32762,sectional,10:00-12:00,gate code 4411
+HH-1156,2026-09-17,Marietta,33.96745,-84.55161,mattress,10:00-12:00,"2nd floor, no elevator"
+HH-1157,2026-09-17,Kirkwood,33.74894,-84.35566,armchair; washer; refrigerator,8:00-10:00,call 30 min ahead
+HH-1158,2026-09-17,Peachtree Corners,33.96905,-84.23047,armchair,14-16,
+HH-1159,2026-09-17,Decatur,33.76125,-84.31067,dresser,12:00-14:00,
+HH-1159,2026-09-17,Decatur,33.76125,-84.31067,dresser,12:00-14:00,
+HH-1160,2026-09-17,Decatur,33.75979,-84.31729,refrigerator,12-14,3rd floor walk-up
+HH-1161,2026-09-17,Midtown,33.77715,-84.37826,armchair,12:00-14:00,
+HH-1162,2026-09-17,Buckhead,33.83032,-84.40927,armchair,8-10,
+HH-1163,2026-09-17,Marietta,33.92255,-84.52089,refrigerator; dresser; dishwasher,16-18,3rd floor walk-up
+HH-1164,2026-09-17,Buckhead,33.83400,-84.37517,dishwasher; dining table,12-14,3rd floor walk-up
+HH-1165,2026-09-17,Decatur,33.75256,-84.30149,sofa,14-16,
+HH-1166,2026-09-17,Roswell,34.01789,-84.33895,dishwasher; sofa; washer,14:00-16:00,call 30 min ahead
+HH-1167,2026-09-17,Buckhead,33.83082,-84.39825,mattress; range; dryer,8-10,3rd floor walk-up
+HH-1168,2026-09-17,Sandy Springs,33.93222,-84.39486,washer; mattress,10:00-12:00,
+HH-1169,2026-09-17,Midtown,33.78564,-84.38240,armchair; refrigerator,8am-10am,
+HH-1170,2026-09-17,Sandy Springs,33.92932,-84.33762,dresser; range,10:00-12:00,
+HH-1171,2026-09-17,Alpharetta,34.07553,-84.27805,refrigerator; range,14-16,3rd floor walk-up
+HH-1172,2026-09-17,Decatur,33.75520,-84.28549,bed frame; sectional,2pm-4pm,call 30 min ahead
+HH-1173,2026-09-17,Marietta,33.92972,-84.55197,dryer,8:00-10:00,
+HH-1174,2026-09-17,Kennesaw,34.02428,-84.65746,armchair; sectional,16:00-18:00,
+HH-1175,2026-09-17,Marietta,33.96155,-84.57180,refrigerator,8:00-10:00,
+HH-1176,2026-09-17,Sandy Springs,33.94554,-84.35975,dishwasher,8am-10am,3rd floor walk-up
+HH-1177,2026-09-17,Sandy Springs,33.92917,-84.35865,dining table,12-14,gate code 4411
+HH-1178,2026-09-17,Dunwoody,33.96024,-84.35454,dining table; dryer,2pm-4pm,
+HH-1179,2026-09-17,Decatur,33.79547,-84.29794,refrigerator,8am-10am,"2nd floor, no elevator"
+HH-1180,2026-09-17,Sandy Springs,33.94095,-84.36485,armchair,14:00-16:00,
+HH-1181,2026-09-17,Buckhead,33.85564,-84.41281,dryer; sectional,10am-12pm,gate code 4411
+HH-1182,2026-09-17,Kirkwood,33.76909,-84.31950,range,14:00-16:00,gate code 4411
+HH-1183,2026-09-17,Midtown,33.80218,-84.37203,refrigerator; armchair; dining table,8-10,3rd floor walk-up
+HH-1184,2026-09-17,Brookhaven,33.87714,-84.33416,bed frame,12pm-2pm,
+HH-1185,2026-09-17,Tucker,33.82179,-84.21754,dryer,14-16,3rd floor walk-up
+HH-1186,2026-09-17,East Point,33.67953,-84.44693,refrigerator,14:00-16:00,
+HH-1187,2026-09-17,Dunwoody,33.93700,-84.34424,mattress; sofa,12-14,
+HH-1188,2026-09-17,Alpharetta,34.10137,-84.29396,sectional,12-14,
+HH-1189,2026-09-17,Kirkwood,33.75913,-84.32527,dryer,10-12,3rd floor walk-up
+HH-1190,2026-09-17,Midtown,33.77189,-84.39522,sofa; dresser,8am-10am,call 30 min ahead
+HH-1191,2026-09-17,Kennesaw,34.01245,-84.63065,range,12:00-14:00,call 30 min ahead
+HH-1192,2026-09-17,Peachtree Corners,33.97557,-84.22524,dishwasher,10:00-12:00,call 30 min ahead
+HH-1193,2026-09-17,Brookhaven,33.86940,-84.33211,washer,16-18,
+HH-1194,2026-09-17,Buckhead,33.84120,-84.36307,washer,8-10,
+HH-1195,2026-09-17,Brookhaven,33.88849,-84.32383,dryer,12pm-2pm,3rd floor walk-up
+HH-1196,2026-09-17,Marietta,33.95532,-84.57782,washer,12pm-2pm,
+HH-1197,2026-09-17,Dunwoody,33.97664,-84.34702,mattress; dryer,14-16,
+HH-1198,2026-09-17,Sandy Springs,33.91499,-84.39058,armchair,8:00-10:00,
+HH-1199,2026-09-17,Sandy Springs,33.91241,-84.38777,dishwasher,12-14,"2nd floor, no elevator"
+HH-1200,2026-09-17,Brookhaven,33.83556,-84.34199,range,16:00-18:00,
+HH-1201,2026-09-18,Brookhaven,33.86480,-84.32969,dresser; dishwasher,10-12,
+HH-1202,2026-09-18,Brookhaven,33.88203,-84.35620,bed frame,16:00-18:00,call 30 min ahead
+HH-1203,2026-09-18,Peachtree Corners,33.97475,-84.20715,bed frame; range,10-12,3rd floor walk-up
+HH-1204,2026-09-18,Buckhead,33.85925,-84.39859,dining table; bed frame; dresser,12pm-2pm,
+HH-1205,2026-09-18,East Point,33.66994,-84.40713,dresser,14-16,
+HH-1206,2026-09-18,Tucker,33.84445,-84.22463,bed frame,8am-10am,
+HH-1207,2026-09-18,Brookhaven,33.88261,-84.34866,dishwasher; range,12:00-14:00,
+HH-1208,2026-09-18,Roswell,34.01977,-84.36284,sofa; refrigerator,16-18,call 30 min ahead
+HH-1209,2026-09-18,Roswell,34.01135,-84.34747,armchair,2pm-4pm,call 30 min ahead
+HH-1210,2026-09-18,Brookhaven,33.87411,-84.36155,dishwasher,8am-10am,call 30 min ahead
+HH-1210,2026-09-18,Brookhaven,33.87411,-84.36155,dishwasher,8am-10am,call 30 min ahead
+HH-1211,2026-09-18,Peachtree Corners,33.96770,-84.19387,mattress,12:00-14:00,
+HH-1212,2026-09-18,Brookhaven,33.86227,-84.31888,dryer; range; sectional,10:00-12:00,
+HH-1213,2026-09-18,Decatur,33.80187,-84.29170,sofa; dresser,10:00-12:00,
+HH-1214,2026-09-18,Decatur,33.79454,-84.30060,dining table,10:00-12:00,
+HH-1215,2026-09-18,Dunwoody,33.95601,-84.34448,refrigerator,2pm-4pm,call 30 min ahead
+HH-1216,2026-09-18,Marietta,33.95604,-84.56355,dryer; range,14:00-16:00,
+HH-1217,2026-09-18,Brookhaven,33.84260,-84.33891,sofa; armchair; range,8-10,
+HH-1218,2026-09-18,Brookhaven,33.86984,-84.32515,washer; dryer,8-10,
+HH-1219,2026-09-18,Decatur,33.76264,-84.28625,mattress,10-12,3rd floor walk-up
+HH-1220,2026-09-18,Kirkwood,33.74623,-84.34006,armchair,12-14,
+HH-1221,2026-09-18,Roswell,33.98401,-84.38667,dresser; range,14-16,
+HH-1222,2026-09-18,Decatur,33.77474,-84.29067,dining table; armchair; sofa,10:00-12:00,3rd floor walk-up
+HH-1223,2026-09-18,Buckhead,33.82289,-84.34013,refrigerator; mattress; sectional,4pm-6pm,
+HH-1224,2026-09-18,Dunwoody,33.94548,-84.33012,armchair; dining table,16:00-18:00,3rd floor walk-up
+HH-1225,2026-09-18,Midtown,33.77469,-84.41679,dishwasher,8am-10am,
+HH-1226,2026-09-18,Marietta,33.95663,-84.54846,bed frame,8am-10am,"2nd floor, no elevator"
+HH-1227,2026-09-18,Decatur,33.78245,-84.30762,washer; bed frame,10am-12pm,
+HH-1228,2026-09-18,Buckhead,33.86339,-84.35572,sofa,14-16,3rd floor walk-up
+HH-1229,2026-09-18,Brookhaven,33.85518,-84.31688,sectional; dresser; range,14-16,"2nd floor, no elevator"
+HH-1230,2026-09-18,Peachtree Corners,33.98313,-84.22947,washer,8:00-10:00,
+HH-1231,2026-09-18,Decatur,33.76515,-84.28170,bed frame; mattress; armchair,16:00-18:00,3rd floor walk-up
+HH-1232,2026-09-18,Peachtree Corners,33.94703,-84.22677,dining table,10-12,"2nd floor, no elevator"
+HH-1233,2026-09-18,Tucker,33.86457,-84.23991,dishwasher; washer,8am-10am,
+HH-1234,2026-09-18,Alpharetta,34.05871,-84.29498,armchair,10:00-12:00,3rd floor walk-up
+HH-1235,2026-09-18,Midtown,33.78733,-84.39385,sofa; range,8:00-10:00,call 30 min ahead
+HH-1236,2026-09-18,Buckhead,33.84646,-84.38896,dryer,14-16,call 30 min ahead
+HH-1236,2026-09-18,Buckhead,33.84646,-84.38896,dryer,14-16,call 30 min ahead
+HH-1237,2026-09-18,Kirkwood,33.78056,-84.31605,refrigerator,14:00-16:00,3rd floor walk-up
+HH-1238,2026-09-18,Marietta,33.94070,-84.55574,dishwasher; mattress; dresser,10:00-12:00,"2nd floor, no elevator"
+HH-1239,2026-09-18,Alpharetta,34.07536,-84.28001,dishwasher; mattress,14-16,"2nd floor, no elevator"
+HH-1240,2026-09-18,Smyrna,33.89460,-84.51196,mattress,8:00-10:00,"2nd floor, no elevator"
+HH-1241,2026-09-18,Midtown,33.80479,-84.36790,armchair,8:00-10:00,
+HH-1242,2026-09-18,Marietta,33.97262,-84.55389,refrigerator; dishwasher,8-10,gate code 4411
+HH-1243,2026-09-18,Kennesaw,34.02700,-84.60024,sofa,8:00-10:00,call 30 min ahead
+HH-1244,2026-09-18,Alpharetta,34.06429,-84.31304,sofa,8-10,
+HH-1245,2026-09-18,East Point,33.68754,-84.44929,sectional; washer; dresser,10:00-12:00,
+HH-1246,2026-09-18,Decatur,33.78533,-84.28725,dining table,8am-10am,"2nd floor, no elevator"
+HH-1247,2026-09-18,Buckhead,33.86755,-84.35658,dryer,12pm-2pm,
+HH-1248,2026-09-21,East Point,33.69559,-84.42047,refrigerator; bed frame,10-12,call 30 min ahead
+HH-1249,2026-09-21,Decatur,33.79215,-84.32092,dryer,8am-10am,
+HH-1250,2026-09-21,Kirkwood,33.75697,-84.31495,mattress; dryer,10-12,3rd floor walk-up
+HH-1250,2026-09-21,Kirkwood,33.75697,-84.31495,mattress; dryer,10-12,3rd floor walk-up
+HH-1251,2026-09-21,Buckhead,33.81433,-84.40190,dresser,14-16,
+HH-1252,2026-09-21,Brookhaven,33.85215,-84.32799,dryer,10am-12pm,"2nd floor, no elevator"
+HH-1253,2026-09-21,Brookhaven,33.86078,-84.34258,dryer,10-12,3rd floor walk-up
+HH-1254,2026-09-21,Buckhead,33.84354,-84.36041,range,16:00-18:00,
+HH-1255,2026-09-21,Tucker,33.86670,-84.24673,dishwasher; range,10:00-12:00,gate code 4411
+HH-1256,2026-09-21,Roswell,34.03871,-84.35733,dresser,14:00-16:00,
+HH-1257,2026-09-21,West End,33.72118,-84.41819,dishwasher,10:00-12:00,"2nd floor, no elevator"
+HH-1258,2026-09-21,Alpharetta,34.08508,-84.28469,armchair,10am-12pm,"2nd floor, no elevator"
+HH-1259,2026-09-21,Peachtree Corners,33.97986,-84.22135,washer,14-16,
+HH-1260,2026-09-21,Buckhead,33.83828,-84.37301,washer; refrigerator; dishwasher,8-10,
+HH-1261,2026-09-21,Sandy Springs,33.93759,-84.37521,range; dresser,12:00-14:00,gate code 4411
+HH-1262,2026-09-21,West End,33.71021,-84.45632,dining table,10-12,
+HH-1263,2026-09-21,Kirkwood,33.72075,-84.31191,range; dishwasher,8-10,gate code 4411
+HH-1264,2026-09-21,Midtown,33.78580,-84.38287,washer,10am-12pm,
+HH-1265,2026-09-21,Brookhaven,33.84591,-84.32639,sectional,16:00-18:00,gate code 4411
+HH-1266,2026-09-21,Roswell,34.02896,-84.35777,washer; dishwasher; armchair,12pm-2pm,
+HH-1267,2026-09-21,Kennesaw,34.02285,-84.59703,sectional; washer,8am-10am,3rd floor walk-up
+HH-1268,2026-09-21,Decatur,33.74832,-84.27906,range; sofa,8:00-10:00,
+HH-1269,2026-09-21,Midtown,33.78557,-84.39481,bed frame; sofa,14:00-16:00,
+HH-1270,2026-09-21,Kirkwood,33.73820,-84.32247,range; dishwasher,8am-10am,
+HH-1271,2026-09-21,Dunwoody,33.92977,-84.32973,dresser,12pm-2pm,gate code 4411
+HH-1271,2026-09-21,Dunwoody,33.92977,-84.32973,dresser,12pm-2pm,gate code 4411
+HH-1272,2026-09-21,Tucker,33.86156,-84.22342,bed frame; dresser,10:00-12:00,
+HH-1273,2026-09-21,Marietta,33.92058,-84.54849,mattress,12pm-2pm,
+HH-1274,2026-09-21,Tucker,33.85123,-84.27572,sofa,10:00-12:00,3rd floor walk-up
+HH-1275,2026-09-21,Brookhaven,33.87202,-84.35660,dining table; sectional,8am-10am,"2nd floor, no elevator"
+HH-1276,2026-09-21,Brookhaven,33.88038,-84.31732,armchair; sectional,8:00-10:00,
+HH-1277,2026-09-21,Tucker,33.85436,-84.23941,mattress,8:00-10:00,
+HH-1278,2026-09-21,Dunwoody,33.95416,-84.33508,refrigerator,8am-10am,
+HH-1279,2026-09-21,Sandy Springs,33.91444,-84.38121,sectional,14-16,
+HH-1280,2026-09-21,Decatur,33.75236,-84.30479,armchair,14-16,
+HH-1281,2026-09-21,Sandy Springs,33.94828,-84.36739,range,4pm-6pm,gate code 4411
+HH-1282,2026-09-21,Smyrna,33.86262,-84.50313,sofa,10-12,gate code 4411
+HH-1283,2026-09-21,East Point,33.68368,-84.42619,mattress,4pm-6pm,
+HH-1284,2026-09-21,Dunwoody,33.93340,-84.33053,dresser; dishwasher,14:00-16:00,
+HH-1285,2026-09-21,East Point,33.67383,-84.46339,bed frame; dining table; dresser,8-10,gate code 4411
+HH-1286,2026-09-21,Midtown,33.77373,-84.36103,armchair; refrigerator,10am-12pm,
+HH-1287,2026-09-21,Smyrna,33.89192,-84.48814,armchair,10am-12pm,"2nd floor, no elevator"
+HH-1288,2026-09-21,Peachtree Corners,33.95826,-84.24227,dresser,8:00-10:00,
+HH-1289,2026-09-21,Brookhaven,33.87894,-84.33843,dryer,16:00-18:00,call 30 min ahead
+HH-1290,2026-09-21,West End,33.72085,-84.40974,dryer; dishwasher; range,16-18,
+HH-1291,2026-09-21,Midtown,33.77201,-84.39344,mattress,8-10,gate code 4411
+HH-1292,2026-09-21,Brookhaven,,,armchair,8-10,
+HH-1293,2026-09-21,Midtown,,,armchair; washer,16-18,
+HH-1294,2026-09-21,Decatur,33.79260,-84.31254,refrigerator,8-10,"2nd floor, no elevator"
+HH-1295,2026-09-21,Midtown,33.76436,-84.41251,dishwasher,10-12,
+HH-1296,2026-09-21,Brookhaven,33.86393,-84.33600,dishwasher; mattress,10-12,
+HH-1297,2026-09-21,Dunwoody,33.93916,-84.34994,dryer; mattress,8-10,call 30 min ahead
+HH-1298,2026-09-21,Smyrna,33.87434,-84.53773,dryer,2pm-4pm,"2nd floor, no elevator"
+HH-1299,2026-09-21,Sandy Springs,33.92456,-84.37160,dining table; armchair,16:00-18:00,call 30 min ahead
+HH-1300,2026-09-21,Alpharetta,34.05519,-84.30326,mattress; sectional; refrigerator,10am-12pm,
+HH-1301,2026-09-22,Marietta,33.93628,-84.56017,dryer,16:00-18:00,gate code 4411
+HH-1302,2026-09-22,Buckhead,33.82727,-84.37820,sectional,8:00-10:00,
+HH-1303,2026-09-22,Peachtree Corners,33.93747,-84.22042,dishwasher; washer; dining table,10-12,"2nd floor, no elevator"
+HH-1304,2026-09-22,Peachtree Corners,33.98263,-84.22390,sofa; dining table; dishwasher,2pm-4pm,"2nd floor, no elevator"
+HH-1305,2026-09-22,Kirkwood,33.76038,-84.31323,dresser,8:00-10:00,gate code 4411
+HH-1306,2026-09-22,Brookhaven,,,range; armchair,16:00-18:00,
+HH-1307,2026-09-22,Buckhead,33.83060,-84.41334,sectional,10am-12pm,
+HH-1307,2026-09-22,Buckhead,33.83060,-84.41334,sectional,10am-12pm,
+HH-1308,2026-09-22,Marietta,33.95411,-84.54277,dishwasher,14-16,
+HH-1309,2026-09-22,Sandy Springs,33.91408,-84.36940,dresser,2pm-4pm,3rd floor walk-up
+HH-1310,2026-09-22,Buckhead,33.85291,-84.36868,dishwasher; refrigerator,10-12,
+HH-1311,2026-09-22,Kennesaw,34.00163,-84.62738,washer,8-10,gate code 4411
+HH-1312,2026-09-22,Midtown,33.77102,-84.36296,armchair,16-18,
+HH-1313,2026-09-22,Decatur,33.78678,-84.29311,armchair; dryer; mattress,8-10,
+HH-1314,2026-09-22,Alpharetta,34.08094,-84.27109,dining table,10:00-12:00,3rd floor walk-up
+HH-1315,2026-09-22,Kirkwood,33.74003,-84.30870,dryer; refrigerator; sectional,10:00-12:00,call 30 min ahead
+HH-1316,2026-09-22,Brookhaven,33.86102,-84.31916,dishwasher,8-10,call 30 min ahead
+HH-1317,2026-09-22,Sandy Springs,33.94203,-84.37667,armchair,12-14,"2nd floor, no elevator"
+HH-1318,2026-09-22,Buckhead,33.84481,-84.34617,armchair; washer; sectional,10am-12pm,
+HH-1319,2026-09-22,Buckhead,33.83400,-84.41001,mattress,10-12,
+HH-1320,2026-09-22,Brookhaven,33.88664,-84.31994,dryer; mattress,12pm-2pm,
+HH-1321,2026-09-22,Tucker,33.87881,-84.18680,dresser,8am-10am,3rd floor walk-up
+HH-1322,2026-09-22,Kennesaw,34.01970,-84.62108,armchair; range,12pm-2pm,
+HH-1323,2026-09-22,Alpharetta,34.06931,-84.27130,sectional,4pm-6pm,3rd floor walk-up
+HH-1324,2026-09-22,Sandy Springs,33.91266,-84.37024,bed frame; refrigerator; dining table,10:00-12:00,call 30 min ahead
+HH-1325,2026-09-22,Midtown,33.78391,-84.40110,sectional; dryer,12pm-2pm,
+HH-1326,2026-09-22,Sandy Springs,33.92529,-84.34370,range; dining table,14:00-16:00,call 30 min ahead
+HH-1327,2026-09-22,Buckhead,33.81235,-84.36946,dishwasher; bed frame,12-14,3rd floor walk-up
+HH-1328,2026-09-22,West End,33.76084,-84.40953,bed frame; dresser,8am-10am,gate code 4411
+HH-1329,2026-09-22,Sandy Springs,33.94532,-84.35029,armchair; mattress,12-14,
+HH-1330,2026-09-22,Smyrna,33.85125,-84.49560,dining table,12pm-2pm,
+HH-1331,2026-09-22,Brookhaven,33.84140,-84.31098,refrigerator,10am-12pm,
+HH-1332,2026-09-22,Kennesaw,34.03185,-84.61354,refrigerator; range; dishwasher,10am-12pm,
+HH-1333,2026-09-22,Buckhead,33.84666,-84.36242,range; dining table,12:00-14:00,
+HH-1334,2026-09-22,Sandy Springs,33.92739,-84.38867,bed frame; mattress,10am-12pm,"2nd floor, no elevator"
+HH-1335,2026-09-22,Buckhead,33.83651,-84.39371,sofa; range,14:00-16:00,
+HH-1336,2026-09-22,West End,33.72200,-84.42140,sofa; dryer; bed frame,12pm-2pm,
+HH-1337,2026-09-22,Marietta,33.94561,-84.54867,sofa; dishwasher,12-14,"2nd floor, no elevator"
+HH-1338,2026-09-22,Sandy Springs,33.93025,-84.32970,sectional,8-10,
+HH-1339,2026-09-22,Buckhead,33.85321,-84.40149,mattress; dishwasher,12-14,"2nd floor, no elevator"
+HH-1340,2026-09-22,Marietta,33.95957,-84.55023,refrigerator,14:00-16:00,
+HH-1341,2026-09-22,Midtown,33.79538,-84.36399,dining table; mattress,12pm-2pm,call 30 min ahead
+HH-1342,2026-09-22,Decatur,33.78562,-84.34736,refrigerator,2pm-4pm,"2nd floor, no elevator"
+HH-1343,2026-09-22,Buckhead,33.85399,-84.38025,armchair,10-12,
+HH-1344,2026-09-23,Buckhead,33.83431,-84.42261,armchair; refrigerator; sectional,16-18,
+HH-1345,2026-09-23,Sandy Springs,33.93669,-84.35681,dishwasher; dresser,2pm-4pm,
+HH-1346,2026-09-23,Dunwoody,33.96645,-84.33560,sofa,14:00-16:00,3rd floor walk-up
+HH-1347,2026-09-23,Alpharetta,34.07630,-84.31240,mattress; bed frame; sofa,14:00-16:00,call 30 min ahead
+HH-1348,2026-09-23,Dunwoody,33.95563,-84.33557,dishwasher,10:00-12:00,3rd floor walk-up
+HH-1349,2026-09-23,Smyrna,33.88015,-84.56244,washer,10:00-12:00,
+HH-1350,2026-09-23,Kirkwood,33.76151,-84.35116,refrigerator,12:00-14:00,gate code 4411
+HH-1351,2026-09-23,Smyrna,33.88282,-84.50673,mattress,16:00-18:00,"2nd floor, no elevator"
+HH-1352,2026-09-23,Tucker,33.85988,-84.23423,dresser; refrigerator,8:00-10:00,3rd floor walk-up
+HH-1353,2026-09-23,Sandy Springs,33.94819,-84.37589,mattress,12-14,"2nd floor, no elevator"
+HH-1354,2026-09-23,East Point,33.67297,-84.43191,armchair; range,4pm-6pm,"2nd floor, no elevator"
+HH-1355,2026-09-23,Buckhead,33.82175,-84.38841,sofa; sectional,8-10,
+HH-1356,2026-09-23,Marietta,33.93950,-84.55084,sectional; dresser,8:00-10:00,3rd floor walk-up
+HH-1357,2026-09-23,Kennesaw,34.00457,-84.64516,dishwasher,10am-12pm,
+HH-1358,2026-09-23,Tucker,33.83701,-84.19319,refrigerator; sofa,14:00-16:00,
+HH-1359,2026-09-23,Brookhaven,33.86096,-84.34700,dryer; dresser,8-10,gate code 4411
+HH-1360,2026-09-23,Dunwoody,33.94494,-84.34467,washer,16-18,
+HH-1361,2026-09-23,Sandy Springs,33.94468,-84.36649,armchair; dresser,8:00-10:00,3rd floor walk-up
+HH-1362,2026-09-23,Brookhaven,33.84590,-84.31168,range,14-16,"2nd floor, no elevator"
+HH-1363,2026-09-23,Tucker,33.86717,-84.23556,range; washer,10-12,
+HH-1364,2026-09-23,Dunwoody,33.93602,-84.33903,washer; range; bed frame,8-10,
+HH-1365,2026-09-23,Roswell,34.00776,-84.40067,range,14-16,
+HH-1366,2026-09-23,Smyrna,33.87066,-84.51554,bed frame; mattress,2pm-4pm,
+HH-1367,2026-09-23,Buckhead,33.83488,-84.37584,dishwasher,10:00-12:00,gate code 4411
+HH-1368,2026-09-23,Roswell,34.03330,-84.35863,mattress; range; sectional,8am-10am,gate code 4411
+HH-1369,2026-09-23,Peachtree Corners,33.94990,-84.21126,sectional; dishwasher; dining table,14:00-16:00,
+HH-1370,2026-09-23,Alpharetta,,,dryer,8-10,
+HH-1371,2026-09-23,Kirkwood,33.76675,-84.32163,refrigerator,10:00-12:00,3rd floor walk-up
+HH-1372,2026-09-23,Midtown,33.79861,-84.36238,bed frame,10:00-12:00,gate code 4411
+HH-1373,2026-09-23,Smyrna,33.87343,-84.51292,mattress; dryer,14-16,
+HH-1374,2026-09-23,Alpharetta,34.05635,-84.28824,sofa,10-12,gate code 4411
+HH-1375,2026-09-23,Kirkwood,33.75563,-84.29209,refrigerator,10am-12pm,call 30 min ahead
+HH-1376,2026-09-23,Sandy Springs,33.89489,-84.38823,dishwasher,14-16,
+HH-1377,2026-09-23,Tucker,33.86103,-84.21846,range; dining table,8:00-10:00,
+HH-1378,2026-09-23,Peachtree Corners,33.95080,-84.19902,sectional,8:00-10:00,
+HH-1379,2026-09-23,Midtown,33.78462,-84.40044,mattress; dishwasher,2pm-4pm,3rd floor walk-up
+HH-1380,2026-09-23,Marietta,33.93489,-84.56493,armchair; sofa,10:00-12:00,3rd floor walk-up
+HH-1381,2026-09-23,Kirkwood,33.76616,-84.33070,bed frame,8am-10am,"2nd floor, no elevator"
+HH-1382,2026-09-23,Buckhead,33.84694,-84.39915,range; mattress,10am-12pm,"2nd floor, no elevator"
+HH-1383,2026-09-23,Peachtree Corners,33.96088,-84.22382,mattress; dresser,14:00-16:00,gate code 4411
+HH-1384,2026-09-23,Peachtree Corners,33.98443,-84.20573,armchair,8am-10am,"2nd floor, no elevator"
+HH-1385,2026-09-23,Brookhaven,33.85723,-84.34662,refrigerator; sofa; range,12:00-14:00,"2nd floor, no elevator"
+HH-1386,2026-09-23,Alpharetta,34.07720,-84.29747,washer; sofa,12pm-2pm,call 30 min ahead
+HH-1387,2026-09-23,Roswell,34.00649,-84.38061,dresser,2pm-4pm,"2nd floor, no elevator"
+HH-1388,2026-09-23,Brookhaven,33.85361,-84.36848,mattress; armchair,12-14,
+HH-1389,2026-09-23,Peachtree Corners,33.95430,-84.24207,washer,12pm-2pm,
+HH-1390,2026-09-23,Peachtree Corners,33.94892,-84.21630,sectional; dryer,10:00-12:00,gate code 4411
+HH-1391,2026-09-23,Roswell,34.01240,-84.34320,dresser,12-14,
+HH-1392,2026-09-23,Roswell,34.03847,-84.36345,refrigerator,8-10,
+HH-1393,2026-09-23,Brookhaven,33.85451,-84.33566,armchair; mattress; dining table,8-10,
+HH-1394,2026-09-23,Dunwoody,33.91859,-84.30636,sofa,10:00-12:00,call 30 min ahead
+HH-1395,2026-09-23,Decatur,33.77107,-84.30428,dishwasher,2pm-4pm,
+HH-1396,2026-09-23,Buckhead,33.82384,-84.37535,mattress; range,14-16,
+HH-1397,2026-09-23,Dunwoody,33.92037,-84.33785,bed frame,10:00-12:00,call 30 min ahead
+HH-1398,2026-09-23,Alpharetta,34.05818,-84.28687,dryer,10:00-12:00,
+HH-1399,2026-09-24,Kennesaw,34.02680,-84.63731,sofa,16:00-18:00,call 30 min ahead
+HH-1400,2026-09-24,Roswell,34.04193,-84.35898,sofa; bed frame,2pm-4pm,
+HH-1401,2026-09-24,Decatur,33.78926,-84.29701,dishwasher,8-10,call 30 min ahead
+HH-1402,2026-09-24,Kennesaw,34.03421,-84.62704,bed frame; sectional; dresser,8am-10am,"2nd floor, no elevator"
+HH-1403,2026-09-24,Dunwoody,33.91335,-84.33799,dishwasher,10:00-12:00,
+HH-1404,2026-09-24,Midtown,33.78539,-84.40085,sectional,14-16,gate code 4411
+HH-1405,2026-09-24,Roswell,34.01083,-84.37805,dryer,12-14,3rd floor walk-up
+HH-1406,2026-09-24,Brookhaven,33.86068,-84.34796,refrigerator; dresser; dishwasher,10am-12pm,
+HH-1407,2026-09-24,Sandy Springs,33.93226,-84.37557,dining table; bed frame,8am-10am,call 30 min ahead
+HH-1408,2026-09-24,West End,33.74347,-84.39533,sofa; dryer,8-10,"2nd floor, no elevator"
+HH-1408,2026-09-24,West End,33.74347,-84.39533,sofa; dryer,8-10,"2nd floor, no elevator"
+HH-1409,2026-09-24,Buckhead,33.85194,-84.39351,refrigerator; dishwasher,10am-12pm,gate code 4411
+HH-1410,2026-09-24,Peachtree Corners,33.97999,-84.23104,dryer,4pm-6pm,
+HH-1411,2026-09-24,Smyrna,33.85926,-84.52741,dresser; dryer,8:00-10:00,
+HH-1412,2026-09-24,Buckhead,33.82292,-84.38770,washer,10am-12pm,"2nd floor, no elevator"
+HH-1413,2026-09-24,Smyrna,33.88609,-84.51808,mattress,2pm-4pm,gate code 4411
+HH-1414,2026-09-24,Sandy Springs,33.92153,-84.37483,sofa; washer,8-10,call 30 min ahead
+HH-1415,2026-09-24,Peachtree Corners,33.95034,-84.24301,refrigerator,8:00-10:00,call 30 min ahead
+HH-1415,2026-09-24,Peachtree Corners,33.95034,-84.24301,refrigerator,8:00-10:00,call 30 min ahead
+HH-1416,2026-09-24,Marietta,33.93942,-84.53534,dishwasher; refrigerator,12:00-14:00,3rd floor walk-up
+HH-1417,2026-09-24,Buckhead,33.81538,-84.37871,dresser; mattress; range,8-10,3rd floor walk-up
+HH-1418,2026-09-24,Smyrna,33.87749,-84.50707,dining table,8:00-10:00,
+HH-1419,2026-09-24,Roswell,34.02904,-84.39981,sofa,8am-10am,
+HH-1420,2026-09-24,Smyrna,33.87685,-84.55730,dryer,14:00-16:00,3rd floor walk-up
+HH-1421,2026-09-24,Dunwoody,33.93026,-84.31346,mattress; dishwasher,12:00-14:00,
+HH-1422,2026-09-24,Brookhaven,33.84418,-84.31138,washer; dining table,10-12,
+HH-1423,2026-09-24,West End,33.73926,-84.43114,dishwasher; range,12pm-2pm,
+HH-1424,2026-09-24,Midtown,33.77925,-84.37804,sofa; dining table,8:00-10:00,
+HH-1425,2026-09-24,Smyrna,33.88608,-84.47666,mattress,12-14,
+HH-1426,2026-09-24,Kirkwood,33.71899,-84.30953,mattress,8-10,
+HH-1427,2026-09-24,Smyrna,33.90234,-84.52380,dryer,8:00-10:00,
+HH-1428,2026-09-24,Alpharetta,34.03472,-84.28464,mattress,16:00-18:00,"2nd floor, no elevator"
+HH-1429,2026-09-24,Alpharetta,34.06598,-84.27802,sectional; armchair,14-16,"2nd floor, no elevator"
+HH-1430,2026-09-24,Kirkwood,33.74875,-84.34768,dryer; refrigerator,10-12,call 30 min ahead
+HH-1431,2026-09-24,Brookhaven,33.85510,-84.34410,bed frame; dishwasher; sectional,12:00-14:00,"2nd floor, no elevator"
+HH-1432,2026-09-24,Kennesaw,33.98427,-84.59740,dishwasher,10am-12pm,
+HH-1433,2026-09-24,Midtown,33.79177,-84.38746,dishwasher,2pm-4pm,3rd floor walk-up
+HH-1434,2026-09-24,Alpharetta,,,bed frame,8:00-10:00,
+HH-1435,2026-09-24,Peachtree Corners,33.96129,-84.22502,dresser,14:00-16:00,gate code 4411
+HH-1436,2026-09-24,Peachtree Corners,33.97105,-84.23552,bed frame,12:00-14:00,3rd floor walk-up
+HH-1437,2026-09-24,Dunwoody,33.94559,-84.31884,dresser; dryer; armchair,14:00-16:00,"2nd floor, no elevator"
+HH-1438,2026-09-24,Midtown,33.77658,-84.38799,bed frame,12pm-2pm,call 30 min ahead
+HH-1439,2026-09-24,Kirkwood,33.77897,-84.30403,sectional,8-10,call 30 min ahead
+HH-1440,2026-09-24,Smyrna,33.93590,-84.50798,sectional,10-12,3rd floor walk-up
+HH-1441,2026-09-24,Decatur,33.77731,-84.32036,sofa,10-12,
+HH-1441,2026-09-24,Decatur,33.77731,-84.32036,sofa,10-12,
+HH-1442,2026-09-24,Midtown,33.75316,-84.38410,washer; sofa,10am-12pm,
+HH-1443,2026-09-24,Buckhead,33.83803,-84.36368,dishwasher,10:00-12:00,gate code 4411
+HH-1444,2026-09-24,East Point,33.68368,-84.42968,bed frame; dryer; mattress,8:00-10:00,3rd floor walk-up
+HH-1445,2026-09-24,Decatur,33.78590,-84.29124,dining table; range; sectional,12-14,gate code 4411
+HH-1446,2026-09-24,Midtown,33.77574,-84.37352,dryer,12:00-14:00,
+HH-1447,2026-09-24,West End,33.75024,-84.39122,range,14-16,
+HH-1448,2026-09-24,Midtown,33.75919,-84.38047,refrigerator; dryer,4pm-6pm,3rd floor walk-up
+HH-1449,2026-09-24,Midtown,33.74834,-84.39132,dryer,10:00-12:00,
+HH-1450,2026-09-24,Brookhaven,33.86867,-84.34900,dishwasher,14:00-16:00,
+HH-1451,2026-09-24,Peachtree Corners,33.96582,-84.21581,dining table; refrigerator,10am-12pm,gate code 4411
+HH-1452,2026-09-24,Alpharetta,34.08443,-84.28759,washer; dryer; dresser,12:00-14:00,call 30 min ahead
+HH-1453,2026-09-24,Roswell,34.05644,-84.34187,sectional; dryer,16-18,gate code 4411
+HH-1454,2026-09-24,Kirkwood,33.72615,-84.30758,dining table,14-16,
+HH-1455,2026-09-24,Brookhaven,33.86885,-84.32515,mattress,8-10,
+HH-1456,2026-09-25,Dunwoody,33.97102,-84.33503,bed frame; armchair; dryer,8:00-10:00,
+HH-1457,2026-09-25,Dunwoody,33.96981,-84.32552,dining table,2pm-4pm,
+HH-1458,2026-09-25,Marietta,33.95065,-84.57798,dresser,12pm-2pm,gate code 4411
+HH-1459,2026-09-25,Kennesaw,34.04661,-84.59671,bed frame,12:00-14:00,
+HH-1460,2026-09-25,Peachtree Corners,33.96190,-84.24034,dresser; sofa,10am-12pm,
+HH-1461,2026-09-25,Dunwoody,33.92060,-84.36027,washer; refrigerator,12:00-14:00,gate code 4411
+HH-1461,2026-09-25,Dunwoody,33.92060,-84.36027,washer; refrigerator,12:00-14:00,gate code 4411
+HH-1462,2026-09-25,West End,33.73810,-84.37929,refrigerator,12:00-14:00,
+HH-1463,2026-09-25,Buckhead,33.84071,-84.37346,dishwasher; sofa; dryer,10:00-12:00,3rd floor walk-up
+HH-1464,2026-09-25,Peachtree Corners,33.98251,-84.22917,armchair; sectional; refrigerator,8am-10am,"2nd floor, no elevator"
+HH-1465,2026-09-25,Dunwoody,33.93944,-84.35896,range; bed frame; armchair,10:00-12:00,
+HH-1466,2026-09-25,Dunwoody,33.96364,-84.34454,dining table,10-12,gate code 4411
+HH-1467,2026-09-25,Midtown,33.76652,-84.37505,bed frame; dryer,14:00-16:00,"2nd floor, no elevator"
+HH-1468,2026-09-25,Midtown,33.77933,-84.39173,refrigerator; dryer,10-12,"2nd floor, no elevator"
+HH-1469,2026-09-25,Buckhead,33.84584,-84.39001,sectional; armchair; dishwasher,8-10,"2nd floor, no elevator"
+HH-1470,2026-09-25,Kennesaw,34.00344,-84.59562,sectional,10:00-12:00,gate code 4411
+HH-1471,2026-09-25,Sandy Springs,33.91186,-84.38751,bed frame; armchair,12-14,gate code 4411
+HH-1472,2026-09-25,Dunwoody,33.92282,-84.33165,washer; range,14:00-16:00,3rd floor walk-up
+HH-1473,2026-09-25,Brookhaven,33.86636,-84.32959,sectional,8:00-10:00,
+HH-1474,2026-09-25,Smyrna,33.87750,-84.51487,armchair,12pm-2pm,"2nd floor, no elevator"
+HH-1475,2026-09-25,Dunwoody,33.93627,-84.36334,refrigerator,10-12,
+HH-1476,2026-09-25,Smyrna,33.88677,-84.54387,mattress; armchair,12-14,3rd floor walk-up
+HH-1477,2026-09-25,Marietta,33.98154,-84.54705,washer,14:00-16:00,call 30 min ahead
+HH-1478,2026-09-25,Smyrna,33.88827,-84.50363,dresser; refrigerator,2pm-4pm,
+HH-1479,2026-09-25,Kirkwood,33.75942,-84.31080,sofa,14:00-16:00,
+HH-1480,2026-09-25,Tucker,33.88499,-84.23112,dryer,14:00-16:00,"2nd floor, no elevator"
+HH-1481,2026-09-25,Midtown,33.78818,-84.36015,dresser,8-10,
+HH-1482,2026-09-25,Sandy Springs,33.93398,-84.36756,armchair; washer,8am-10am,"2nd floor, no elevator"
+HH-1483,2026-09-25,West End,33.71924,-84.42851,bed frame,2pm-4pm,3rd floor walk-up
+HH-1484,2026-09-25,Brookhaven,33.88055,-84.33151,dryer; dining table,14:00-16:00,"2nd floor, no elevator"
+HH-1485,2026-09-25,Midtown,33.76131,-84.34893,sectional,14:00-16:00,
+HH-1486,2026-09-25,Kirkwood,33.77711,-84.30672,range,16-18,gate code 4411
+HH-1487,2026-09-25,Midtown,33.79825,-84.42456,dishwasher; dresser,10:00-12:00,
+HH-1488,2026-09-25,Decatur,33.76602,-84.27997,sofa; range; sectional,10am-12pm,"2nd floor, no elevator"
+HH-1489,2026-09-25,Tucker,33.86313,-84.24502,dryer; bed frame,10-12,
+HH-1490,2026-09-25,West End,33.75013,-84.39691,sectional,8:00-10:00,3rd floor walk-up
+HH-1491,2026-09-25,Dunwoody,33.96109,-84.32057,bed frame,10-12,call 30 min ahead
+HH-1492,2026-09-25,Marietta,33.92734,-84.55244,dining table,10-12,
+HH-1493,2026-09-25,Sandy Springs,33.90456,-84.37923,bed frame,8:00-10:00,3rd floor walk-up
+HH-1494,2026-09-25,East Point,33.67393,-84.41006,sofa,2pm-4pm,call 30 min ahead
+HH-1495,2026-09-25,Tucker,33.85862,-84.24087,sectional,10:00-12:00,call 30 min ahead
+HH-1496,2026-09-25,Buckhead,33.84840,-84.37387,sofa,12pm-2pm,
+HH-1497,2026-09-25,Marietta,33.94469,-84.56676,armchair; sofa; dresser,2pm-4pm,
+HH-1498,2026-09-25,Brookhaven,33.84932,-84.32384,sofa,12-14,
+HH-1499,2026-09-25,Kirkwood,33.73210,-84.32462,armchair,8-10,"2nd floor, no elevator"
+HH-1500,2026-09-25,East Point,33.67977,-84.43295,dining table,8am-10am,3rd floor walk-up
+HH-1500,2026-09-25,East Point,33.67977,-84.43295,dining table,8am-10am,3rd floor walk-up
+HH-1501,2026-09-25,West End,33.74894,-84.43984,mattress; dresser,14:00-16:00,gate code 4411
+HH-1502,2026-09-25,Marietta,33.93330,-84.56687,dishwasher; mattress; dining table,10am-12pm,
+HH-1503,2026-09-25,Midtown,33.77872,-84.37846,armchair,8:00-10:00,3rd floor walk-up
+HH-1504,2026-09-25,Midtown,33.78108,-84.35102,refrigerator; dining table; sofa,10am-12pm,
+HH-1505,2026-09-25,Buckhead,33.83086,-84.38804,sofa; washer,16:00-18:00,gate code 4411
+HH-1506,2026-09-25,Buckhead,33.82785,-84.38475,dresser; bed frame,8-10,
+HH-1507,2026-09-25,Peachtree Corners,33.97059,-84.20188,washer; mattress; bed frame,12:00-14:00,
+HH-1508,2026-09-25,Smyrna,33.88023,-84.50762,dining table; sectional,10-12,3rd floor walk-up
+HH-1509,2026-09-25,West End,33.73346,-84.41009,dining table,10:00-12:00,3rd floor walk-up
+HH-1510,2026-09-25,Smyrna,33.89854,-84.52771,dryer; mattress,12pm-2pm,3rd floor walk-up
+HH-1511,2026-09-25,Sandy Springs,33.94672,-84.37193,sofa,10-12,
+HH-1512,2026-09-25,Midtown,33.77491,-84.37094,bed frame,8-10,gate code 4411
+HH-1513,2026-09-28,Sandy Springs,33.96141,-84.39647,dishwasher,14:00-16:00,gate code 4411
+HH-1514,2026-09-28,Dunwoody,33.93395,-84.34246,dryer,12-14,
+HH-1515,2026-09-28,Sandy Springs,33.95034,-84.39223,dining table,16-18,"2nd floor, no elevator"
+HH-1516,2026-09-28,Midtown,33.77596,-84.38777,dining table,14-16,
+HH-1517,2026-09-28,Kirkwood,,,dishwasher; dresser; washer,2pm-4pm,
+HH-1518,2026-09-28,Midtown,33.76080,-84.41004,dresser,10:00-12:00,call 30 min ahead
+HH-1519,2026-09-28,Marietta,33.96967,-84.55507,range; sectional,12-14,call 30 min ahead
+HH-1520,2026-09-28,Dunwoody,33.96476,-84.37592,range,2pm-4pm,call 30 min ahead
+HH-1521,2026-09-28,Buckhead,33.83035,-84.35242,dresser; range; dryer,8-10,3rd floor walk-up
+HH-1522,2026-09-28,Dunwoody,33.95361,-84.29677,dresser,16:00-18:00,3rd floor walk-up
+HH-1523,2026-09-28,Smyrna,33.86157,-84.47603,dishwasher,12pm-2pm,
+HH-1524,2026-09-28,Buckhead,33.83561,-84.37660,sofa; armchair,14:00-16:00,3rd floor walk-up
+HH-1525,2026-09-28,Tucker,33.81661,-84.21587,dryer; dishwasher,14:00-16:00,3rd floor walk-up
+HH-1526,2026-09-28,East Point,33.68424,-84.41683,refrigerator,14:00-16:00,"2nd floor, no elevator"
+HH-1527,2026-09-28,Brookhaven,33.87361,-84.34029,armchair,10-12,gate code 4411
+HH-1528,2026-09-28,Brookhaven,33.86849,-84.32931,dining table; armchair,8:00-10:00,
+HH-1529,2026-09-28,Roswell,,,dining table; range,16-18,gate code 4411
+HH-1530,2026-09-28,Kirkwood,33.78200,-84.32833,bed frame,12-14,call 30 min ahead
+HH-1531,2026-09-28,Sandy Springs,33.92791,-84.35797,bed frame; range,12pm-2pm,
+HH-1532,2026-09-28,Smyrna,33.88516,-84.50701,refrigerator; range,10:00-12:00,
+HH-1533,2026-09-28,Midtown,33.78072,-84.36297,armchair; sectional,8:00-10:00,call 30 min ahead
+HH-1534,2026-09-28,Dunwoody,33.93346,-84.32398,dryer,10am-12pm,call 30 min ahead
+HH-1535,2026-09-28,Kirkwood,33.75647,-84.31683,sofa,10:00-12:00,3rd floor walk-up
+HH-1536,2026-09-28,Sandy Springs,33.94165,-84.35033,dresser,14-16,
+HH-1537,2026-09-28,Kirkwood,33.75756,-84.32191,refrigerator; sectional,12pm-2pm,
+HH-1538,2026-09-28,Kirkwood,33.76144,-84.32621,armchair; washer; dryer,10am-12pm,"2nd floor, no elevator"
+HH-1539,2026-09-28,Roswell,34.04191,-84.31974,dryer,10am-12pm,
+HH-1540,2026-09-28,Decatur,33.77499,-84.29082,bed frame,8-10,call 30 min ahead
+HH-1541,2026-09-28,Midtown,33.76444,-84.35869,dresser; dishwasher,12pm-2pm,call 30 min ahead
+HH-1542,2026-09-28,West End,33.72904,-84.39482,dining table,10-12,gate code 4411
+HH-1543,2026-09-28,Sandy Springs,33.94779,-84.38937,bed frame; armchair,10-12,3rd floor walk-up
+HH-1544,2026-09-28,East Point,33.69252,-84.45043,dishwasher,12:00-14:00,
+HH-1545,2026-09-28,Alpharetta,34.07826,-84.29856,armchair; bed frame; sectional,8-10,
+HH-1546,2026-09-28,Midtown,33.77135,-84.38352,sectional; washer; armchair,8am-10am,
+HH-1547,2026-09-28,Peachtree Corners,33.96334,-84.23552,refrigerator,8:00-10:00,
+HH-1548,2026-09-28,Sandy Springs,33.90943,-84.39018,dryer,12pm-2pm,"2nd floor, no elevator"
+HH-1549,2026-09-28,Brookhaven,33.84201,-84.32807,range; armchair,8-10,
+HH-1550,2026-09-28,East Point,33.67323,-84.37616,dresser; armchair,8-10,
+HH-1551,2026-09-28,Dunwoody,33.94848,-84.34483,washer; sectional,10:00-12:00,gate code 4411
+HH-1552,2026-09-28,Dunwoody,33.95174,-84.37225,mattress; bed frame,10am-12pm,
+HH-1553,2026-09-28,Alpharetta,34.09964,-84.28256,dresser; washer,8:00-10:00,
+HH-1554,2026-09-28,Kirkwood,33.73785,-84.31637,armchair; refrigerator,10-12,
+HH-1555,2026-09-28,Peachtree Corners,33.98560,-84.23004,washer; sofa; range,4pm-6pm,gate code 4411
+HH-1556,2026-09-28,Sandy Springs,33.93492,-84.36939,refrigerator,10:00-12:00,
+HH-1557,2026-09-28,Midtown,33.78347,-84.33330,sofa; bed frame,8:00-10:00,gate code 4411
+HH-1558,2026-09-28,Dunwoody,33.93603,-84.34487,dryer,10am-12pm,
+HH-1559,2026-09-28,Kirkwood,33.77366,-84.26347,washer,14:00-16:00,call 30 min ahead
+HH-1559,2026-09-28,Kirkwood,33.77366,-84.26347,washer,14:00-16:00,call 30 min ahead
+HH-1560,2026-09-28,Kirkwood,33.78495,-84.31094,dining table; bed frame,8-10,
+HH-1561,2026-09-28,Kennesaw,34.01608,-84.61559,range; dishwasher; dining table,16-18,
+HH-1562,2026-09-28,Buckhead,33.82658,-84.41487,dresser,8-10,
+HH-1563,2026-09-28,Kirkwood,33.72369,-84.33355,armchair,12-14,
+HH-1564,2026-09-28,Marietta,33.95186,-84.54792,refrigerator; dryer,10-12,
+HH-1565,2026-09-29,Sandy Springs,33.94643,-84.37333,sofa,12pm-2pm,
+HH-1566,2026-09-29,Roswell,34.02037,-84.36470,range,12pm-2pm,call 30 min ahead
+HH-1567,2026-09-29,Dunwoody,33.94045,-84.31615,bed frame; dining table; refrigerator,10:00-12:00,
+HH-1568,2026-09-29,Roswell,34.06667,-84.35904,dryer; dining table,8:00-10:00,
+HH-1569,2026-09-29,Dunwoody,33.96090,-84.37046,dining table; sectional; range,14-16,3rd floor walk-up
+HH-1570,2026-09-29,Decatur,33.77188,-84.29543,range,8-10,3rd floor walk-up
+HH-1571,2026-09-29,Smyrna,33.89214,-84.49575,washer; refrigerator; dining table,10am-12pm,gate code 4411
+HH-1572,2026-09-29,Peachtree Corners,33.95754,-84.22160,mattress,12:00-14:00,"2nd floor, no elevator"
+HH-1573,2026-09-29,Kirkwood,33.74815,-84.33026,dresser; bed frame,8:00-10:00,
+HH-1574,2026-09-29,Dunwoody,33.94176,-84.32575,range; armchair,14:00-16:00,
+HH-1575,2026-09-29,Dunwoody,,,dining table,10-12,
+HH-1576,2026-09-29,Buckhead,33.84017,-84.36684,washer; sectional,12:00-14:00,
+HH-1577,2026-09-29,Roswell,34.02177,-84.37319,dining table; mattress; armchair,14-16,
+HH-1578,2026-09-29,Buckhead,33.83868,-84.37426,sofa; dryer; armchair,12:00-14:00,3rd floor walk-up
+HH-1579,2026-09-29,West End,33.74003,-84.39931,dryer,4pm-6pm,3rd floor walk-up
+HH-1579,2026-09-29,West End,33.74003,-84.39931,dryer,4pm-6pm,3rd floor walk-up
+HH-1580,2026-09-29,Sandy Springs,33.92950,-84.37550,sectional; sofa,12:00-14:00,
+HH-1581,2026-09-29,Roswell,34.03058,-84.36564,armchair,10-12,
+HH-1582,2026-09-29,Tucker,33.84609,-84.22898,dresser; bed frame; refrigerator,8-10,gate code 4411
+HH-1583,2026-09-29,Kirkwood,33.75986,-84.34818,dining table,14-16,
+HH-1584,2026-09-29,Alpharetta,34.06806,-84.29344,refrigerator,14-16,gate code 4411
+HH-1585,2026-09-29,Buckhead,33.84385,-84.38113,sofa; dryer,14-16,call 30 min ahead
+HH-1586,2026-09-29,Marietta,33.95120,-84.54428,mattress; dishwasher; dresser,10:00-12:00,
+HH-1587,2026-09-29,Alpharetta,34.06643,-84.28706,refrigerator; washer; bed frame,8-10,gate code 4411
+HH-1588,2026-09-29,Buckhead,33.83368,-84.37860,range,8-10,"2nd floor, no elevator"
+HH-1588,2026-09-29,Buckhead,33.83368,-84.37860,range,8-10,"2nd floor, no elevator"
+HH-1589,2026-09-29,Dunwoody,33.92589,-84.34629,sectional,8:00-10:00,gate code 4411
+HH-1590,2026-09-29,Marietta,33.93716,-84.53437,dryer,14-16,call 30 min ahead
+HH-1591,2026-09-29,Smyrna,33.87444,-84.50193,sectional,10-12,
+HH-1592,2026-09-29,Sandy Springs,33.93797,-84.40122,sofa; armchair,8-10,call 30 min ahead
+HH-1593,2026-09-29,Brookhaven,33.90427,-84.32269,washer; dresser,8:00-10:00,3rd floor walk-up
+HH-1594,2026-09-29,Buckhead,33.84628,-84.34871,bed frame,12pm-2pm,3rd floor walk-up
+HH-1595,2026-09-29,Buckhead,33.80858,-84.35798,dresser,8:00-10:00,
+HH-1596,2026-09-29,Roswell,34.03664,-84.34741,bed frame,8-10,
+HH-1597,2026-09-29,Brookhaven,33.88020,-84.30834,dishwasher; dryer,4pm-6pm,
+HH-1597,2026-09-29,Brookhaven,33.88020,-84.30834,dishwasher; dryer,4pm-6pm,
+HH-1598,2026-09-29,Brookhaven,33.85515,-84.32675,sofa; dishwasher,8-10,"2nd floor, no elevator"
+HH-1599,2026-09-29,Marietta,33.96498,-84.52999,dishwasher,2pm-4pm,gate code 4411
+HH-1600,2026-09-29,Roswell,34.03286,-84.35411,sofa; dresser; dining table,14-16,
+HH-1601,2026-09-29,Midtown,33.77290,-84.37901,refrigerator,10-12,"2nd floor, no elevator"
+HH-1602,2026-09-29,Brookhaven,33.86644,-84.35962,range; armchair,8-10,gate code 4411
+HH-1603,2026-09-29,Alpharetta,34.07266,-84.28058,range,16:00-18:00,gate code 4411
+HH-1604,2026-09-29,Tucker,33.85501,-84.24087,sectional,12-14,
+HH-1605,2026-09-29,West End,33.75804,-84.44456,sofa; refrigerator,8am-10am,
+HH-1606,2026-09-29,Marietta,33.93379,-84.52838,washer; dishwasher; armchair,4pm-6pm,
+HH-1607,2026-09-29,Smyrna,33.87469,-84.51937,dishwasher,10:00-12:00,
+HH-1608,2026-09-29,Peachtree Corners,33.96683,-84.18245,armchair,12:00-14:00,
+HH-1609,2026-09-29,Decatur,33.79311,-84.28952,mattress,8-10,gate code 4411
+HH-1610,2026-09-29,Sandy Springs,33.91692,-84.38415,armchair,8am-10am,"2nd floor, no elevator"
+HH-1611,2026-09-29,Midtown,33.77761,-84.39030,range; dishwasher,10-12,gate code 4411
+HH-1611,2026-09-29,Midtown,33.77761,-84.39030,range; dishwasher,10-12,gate code 4411
+HH-1612,2026-09-30,Marietta,33.96629,-84.54552,washer,8am-10am,call 30 min ahead
+HH-1613,2026-09-30,Decatur,33.77137,-84.28528,washer,10am-12pm,
+HH-1614,2026-09-30,Marietta,33.95229,-84.54896,sofa; washer,16-18,
+HH-1615,2026-09-30,Alpharetta,34.08361,-84.26142,dryer,10:00-12:00,
+HH-1616,2026-09-30,Buckhead,33.83125,-84.37257,range,12:00-14:00,gate code 4411
+HH-1617,2026-09-30,Brookhaven,33.88401,-84.31752,bed frame,10:00-12:00,3rd floor walk-up
+HH-1618,2026-09-30,Kennesaw,33.99866,-84.60951,sofa; dresser; sectional,8am-10am,call 30 min ahead
+HH-1619,2026-09-30,Buckhead,33.84805,-84.38918,dryer; bed frame,12:00-14:00,call 30 min ahead
+HH-1620,2026-09-30,Kirkwood,33.76253,-84.32136,washer,8-10,
+HH-1621,2026-09-30,Alpharetta,34.07289,-84.28240,armchair,12:00-14:00,gate code 4411
+HH-1622,2026-09-30,Smyrna,33.88961,-84.53775,mattress; armchair,16:00-18:00,"2nd floor, no elevator"
+HH-1623,2026-09-30,East Point,33.66079,-84.39882,dining table; refrigerator,2pm-4pm,
+HH-1624,2026-09-30,Smyrna,33.87069,-84.52748,dresser,16:00-18:00,"2nd floor, no elevator"
+HH-1625,2026-09-30,West End,,,range,12pm-2pm,"2nd floor, no elevator"
+HH-1626,2026-09-30,Decatur,33.78899,-84.28813,mattress,4pm-6pm,"2nd floor, no elevator"
+HH-1627,2026-09-30,Kennesaw,34.04322,-84.61376,washer; dresser,12-14,call 30 min ahead
+HH-1628,2026-09-30,Brookhaven,,,bed frame,8am-10am,"2nd floor, no elevator"
+HH-1629,2026-09-30,West End,33.76520,-84.41008,refrigerator; washer; armchair,8-10,
+HH-1630,2026-09-30,Alpharetta,34.09828,-84.29186,dishwasher,12pm-2pm,gate code 4411
+HH-1631,2026-09-30,Tucker,33.86935,-84.22147,dresser,12-14,
+HH-1632,2026-09-30,Kirkwood,33.75267,-84.30715,range,12-14,
+HH-1633,2026-09-30,Decatur,33.75095,-84.27994,dryer,2pm-4pm,
+HH-1634,2026-09-30,Sandy Springs,33.93025,-84.39533,dryer; sofa,8:00-10:00,
+HH-1635,2026-09-30,Midtown,33.79740,-84.40075,sofa; dresser,14:00-16:00,gate code 4411
+HH-1636,2026-09-30,West End,33.70536,-84.44722,bed frame,12-14,call 30 min ahead
+HH-1637,2026-09-30,Kennesaw,34.00449,-84.63996,armchair,8:00-10:00,call 30 min ahead
+HH-1638,2026-09-30,Roswell,34.03621,-84.35515,dresser,16:00-18:00,
+HH-1639,2026-09-30,Alpharetta,34.07329,-84.30473,range,8-10,3rd floor walk-up
+HH-1640,2026-09-30,Midtown,33.79077,-84.38963,bed frame; sectional,8am-10am,
+HH-1641,2026-09-30,Brookhaven,33.86899,-84.34259,armchair; dining table; dresser,8am-10am,"2nd floor, no elevator"
+HH-1642,2026-09-30,East Point,33.67258,-84.46126,sectional,8-10,3rd floor walk-up
+HH-1643,2026-09-30,Decatur,33.78289,-84.29149,refrigerator; dresser,10-12,call 30 min ahead
+HH-1644,2026-09-30,Midtown,33.76958,-84.39960,armchair; sectional,10-12,
+HH-1645,2026-09-30,Kirkwood,33.74309,-84.27657,sectional; washer; range,8:00-10:00,
+HH-1646,2026-09-30,Decatur,33.77836,-84.29438,bed frame,16:00-18:00,call 30 min ahead
+HH-1647,2026-09-30,Peachtree Corners,33.97502,-84.23577,dining table; mattress,8am-10am,3rd floor walk-up
+HH-1648,2026-09-30,Midtown,33.78036,-84.38261,armchair; dishwasher; dining table,10am-12pm,gate code 4411
+HH-1649,2026-09-30,Buckhead,33.83305,-84.38756,washer,10:00-12:00,
+HH-1650,2026-09-30,Midtown,33.80358,-84.39329,washer; bed frame; dresser,14-16,gate code 4411
+HH-1651,2026-09-30,Kirkwood,33.76828,-84.29382,dining table,8-10,
+HH-1652,2026-09-30,Dunwoody,33.95156,-84.33044,armchair; refrigerator; sectional,12:00-14:00,gate code 4411
+HH-1653,2026-09-30,Alpharetta,34.10537,-84.27890,dryer; bed frame; mattress,10am-12pm,
+HH-1654,2026-09-30,Decatur,33.77957,-84.32259,armchair; sectional,8:00-10:00,
+HH-1655,2026-09-30,Brookhaven,33.84631,-84.30849,refrigerator,12pm-2pm,"2nd floor, no elevator"
+HH-1656,2026-09-30,Decatur,33.77654,-84.30914,armchair,14-16,
+HH-1657,2026-10-01,Brookhaven,33.88807,-84.32814,mattress; washer,8-10,
+HH-1658,2026-10-01,Buckhead,33.83056,-84.39273,range; washer; armchair,10:00-12:00,"2nd floor, no elevator"
+HH-1659,2026-10-01,Midtown,33.79478,-84.38436,mattress,10-12,call 30 min ahead
+HH-1660,2026-10-01,Alpharetta,34.10133,-84.26711,dryer,2pm-4pm,
+HH-1661,2026-10-01,Brookhaven,33.85570,-84.36724,washer; armchair,8-10,call 30 min ahead
+HH-1662,2026-10-01,East Point,33.70774,-84.44499,bed frame; sectional,10-12,gate code 4411
+HH-1663,2026-10-01,Midtown,33.80024,-84.37850,refrigerator; armchair,8-10,
+HH-1664,2026-10-01,Peachtree Corners,33.97240,-84.21804,mattress,10am-12pm,
+HH-1665,2026-10-01,Buckhead,33.83197,-84.37446,mattress; dining table,10am-12pm,
+HH-1666,2026-10-01,Marietta,33.94857,-84.53385,bed frame,12-14,
+HH-1667,2026-10-01,Sandy Springs,33.94740,-84.37698,sofa,14-16,"2nd floor, no elevator"
+HH-1668,2026-10-01,Dunwoody,33.96436,-84.31836,sofa; washer,8-10,"2nd floor, no elevator"
+HH-1669,2026-10-01,Decatur,33.78627,-84.31335,dining table; bed frame,8-10,3rd floor walk-up
+HH-1670,2026-10-01,Roswell,34.00952,-84.35345,dishwasher,4pm-6pm,gate code 4411
+HH-1671,2026-10-01,Kennesaw,34.04554,-84.63118,dishwasher,10am-12pm,
+HH-1672,2026-10-01,Brookhaven,33.82935,-84.31957,dishwasher; dresser; bed frame,12:00-14:00,"2nd floor, no elevator"
+HH-1673,2026-10-01,Brookhaven,33.86012,-84.34565,dishwasher; sectional; washer,12:00-14:00,
+HH-1674,2026-10-01,Kirkwood,33.76396,-84.30478,dishwasher; washer,8-10,"2nd floor, no elevator"
+HH-1675,2026-10-01,Peachtree Corners,33.98413,-84.18391,refrigerator,8am-10am,"2nd floor, no elevator"
+HH-1676,2026-10-01,Sandy Springs,33.94777,-84.37228,refrigerator,10-12,call 30 min ahead
+HH-1677,2026-10-01,Brookhaven,33.86070,-84.32077,dining table; washer; armchair,4pm-6pm,
+HH-1678,2026-10-01,West End,33.77611,-84.40225,mattress; sectional,8-10,call 30 min ahead
+HH-1679,2026-10-01,Dunwoody,33.93552,-84.31536,dryer,12pm-2pm,
+HH-1680,2026-10-01,Kirkwood,33.75363,-84.33903,refrigerator,8-10,
+HH-1681,2026-10-01,Buckhead,33.80922,-84.38030,sofa; bed frame,12:00-14:00,3rd floor walk-up
+HH-1682,2026-10-01,Peachtree Corners,33.98124,-84.24422,mattress,10:00-12:00,
+HH-1683,2026-10-01,Midtown,33.75688,-84.38459,dining table,12-14,
+HH-1684,2026-10-01,Kirkwood,33.74678,-84.34494,dishwasher,8am-10am,
+HH-1685,2026-10-01,Smyrna,33.88623,-84.54353,bed frame,12pm-2pm,
+HH-1686,2026-10-01,Midtown,33.79378,-84.40157,dryer; dishwasher,10:00-12:00,call 30 min ahead
+HH-1687,2026-10-01,West End,33.72916,-84.44067,sofa; dishwasher; range,12-14,"2nd floor, no elevator"
+HH-1688,2026-10-01,Roswell,34.00625,-84.34030,dishwasher; dining table; armchair,4pm-6pm,call 30 min ahead
+HH-1689,2026-10-01,Brookhaven,,,sectional,16:00-18:00,
+HH-1690,2026-10-01,Midtown,33.77911,-84.38764,sectional; refrigerator,8:00-10:00,
+HH-1691,2026-10-01,Midtown,33.78599,-84.40661,washer,8-10,
+HH-1692,2026-10-01,Dunwoody,33.93527,-84.30569,mattress; dresser; dryer,8:00-10:00,gate code 4411
+HH-1693,2026-10-01,Marietta,33.95433,-84.52084,bed frame,10am-12pm,
+HH-1694,2026-10-01,Midtown,33.75239,-84.38969,sectional,8-10,call 30 min ahead
+HH-1695,2026-10-01,Sandy Springs,33.93693,-84.36279,dishwasher,14:00-16:00,
+HH-1696,2026-10-01,Buckhead,33.81589,-84.37012,dishwasher,10-12,call 30 min ahead
+HH-1697,2026-10-01,Sandy Springs,33.92946,-84.36960,washer,12pm-2pm,
+HH-1698,2026-10-01,Decatur,33.77075,-84.29546,dining table,14:00-16:00,
+HH-1699,2026-10-01,Roswell,34.04208,-84.36230,dishwasher,10-12,call 30 min ahead
+HH-1700,2026-10-01,Decatur,33.80629,-84.28861,dresser,10-12,
+HH-1701,2026-10-01,West End,33.75555,-84.40229,washer,8-10,
+HH-1702,2026-10-01,Roswell,34.01978,-84.39051,refrigerator,8-10,
+HH-1703,2026-10-01,Roswell,34.01714,-84.34933,mattress,4pm-6pm,"2nd floor, no elevator"
+HH-1704,2026-10-01,Sandy Springs,33.92622,-84.36461,bed frame; dresser; dryer,8:00-10:00,gate code 4411
+HH-1705,2026-10-01,Midtown,33.78430,-84.43833,dryer,10am-12pm,call 30 min ahead
+HH-1706,2026-10-02,Kirkwood,33.74144,-84.33732,sectional; dishwasher,8am-10am,
+HH-1707,2026-10-02,Peachtree Corners,33.97885,-84.20599,mattress,10am-12pm,
+HH-1708,2026-10-02,Midtown,33.79057,-84.39288,sofa; dining table,12pm-2pm,3rd floor walk-up
+HH-1709,2026-10-02,Brookhaven,33.85481,-84.36748,armchair; washer,8am-10am,
+HH-1710,2026-10-02,Kirkwood,33.76539,-84.29090,washer; refrigerator; bed frame,10am-12pm,
+HH-1711,2026-10-02,Decatur,33.76226,-84.28326,sectional; mattress,12:00-14:00,
+HH-1712,2026-10-02,Decatur,33.75313,-84.31152,dresser; dishwasher,14:00-16:00,3rd floor walk-up
+HH-1713,2026-10-02,Brookhaven,33.82888,-84.32368,armchair; dining table; sectional,8:00-10:00,"2nd floor, no elevator"
+HH-1714,2026-10-02,Peachtree Corners,33.96494,-84.22291,dishwasher,16-18,
+HH-1715,2026-10-02,Buckhead,33.83747,-84.39598,sectional; washer,10-12,call 30 min ahead
+HH-1716,2026-10-02,Roswell,34.00299,-84.37985,bed frame; armchair,2pm-4pm,call 30 min ahead
+HH-1717,2026-10-02,Peachtree Corners,33.95691,-84.22023,dining table,8:00-10:00,3rd floor walk-up
+HH-1718,2026-10-02,Dunwoody,33.95069,-84.33249,sectional,12-14,
+HH-1719,2026-10-02,Alpharetta,34.07489,-84.29465,dishwasher,10:00-12:00,
+HH-1720,2026-10-02,Tucker,33.85192,-84.19004,sofa; dryer,10:00-12:00,gate code 4411
+HH-1721,2026-10-02,West End,33.71145,-84.38166,range; mattress; dishwasher,14-16,
+HH-1722,2026-10-02,Dunwoody,33.92321,-84.32721,refrigerator; sectional; dining table,2pm-4pm,
+HH-1723,2026-10-02,Marietta,33.95744,-84.57385,armchair,10-12,
+HH-1724,2026-10-02,Sandy Springs,33.93805,-84.39439,armchair; washer,10-12,
+HH-1725,2026-10-02,Alpharetta,34.06900,-84.27842,armchair,8am-10am,3rd floor walk-up
+HH-1726,2026-10-02,Midtown,33.79146,-84.36268,range; sectional,2pm-4pm,
+HH-1727,2026-10-02,Kirkwood,33.75784,-84.32400,sectional; dining table; sofa,12pm-2pm,
+HH-1728,2026-10-02,Dunwoody,33.93698,-84.31756,dining table,12pm-2pm,call 30 min ahead
+HH-1729,2026-10-02,Midtown,33.77090,-84.39156,sofa; sectional; armchair,12-14,"2nd floor, no elevator"
+HH-1730,2026-10-02,Buckhead,33.87105,-84.39736,washer,10-12,
+HH-1731,2026-10-02,Decatur,33.78723,-84.31281,range,8:00-10:00,gate code 4411
+HH-1732,2026-10-02,Smyrna,33.87207,-84.53341,armchair,8am-10am,gate code 4411
+HH-1733,2026-10-02,Brookhaven,33.86038,-84.32833,dresser; range,16:00-18:00,
+HH-1734,2026-10-02,Buckhead,33.81249,-84.39497,sofa,8am-10am,"2nd floor, no elevator"
+HH-1735,2026-10-02,East Point,33.65556,-84.44854,armchair; dryer,8am-10am,
+HH-1736,2026-10-02,Buckhead,33.84791,-84.38148,bed frame,14:00-16:00,call 30 min ahead
+HH-1736,2026-10-02,Buckhead,33.84791,-84.38148,bed frame,14:00-16:00,call 30 min ahead
+HH-1737,2026-10-02,Roswell,34.03265,-84.35966,armchair; sectional,14-16,
+HH-1738,2026-10-02,Dunwoody,33.93444,-84.33010,dresser; bed frame,8am-10am,
+HH-1739,2026-10-02,Peachtree Corners,33.96477,-84.23855,bed frame; sofa; sectional,16-18,gate code 4411
+HH-1740,2026-10-02,Brookhaven,33.85967,-84.34024,range,14:00-16:00,gate code 4411
+HH-1741,2026-10-02,Midtown,33.77820,-84.38198,dishwasher,10-12,gate code 4411
+HH-1742,2026-10-02,Decatur,33.78009,-84.29246,range; refrigerator,8am-10am,gate code 4411
+HH-1743,2026-10-02,Marietta,33.97806,-84.55332,dryer; dining table,8am-10am,call 30 min ahead
+HH-1744,2026-10-02,Brookhaven,33.86416,-84.36134,refrigerator; sectional,12:00-14:00,
+HH-1745,2026-10-02,Kirkwood,33.76291,-84.31690,dryer; sectional,8-10,gate code 4411
+HH-1746,2026-10-02,Marietta,33.92076,-84.54421,sectional; dresser; refrigerator,14:00-16:00,3rd floor walk-up
+HH-1747,2026-10-02,Kirkwood,33.75396,-84.34269,sofa; sectional; dryer,14:00-16:00,3rd floor walk-up
+HH-1748,2026-10-02,Peachtree Corners,33.99830,-84.22691,dining table,8am-10am,"2nd floor, no elevator"
+HH-1749,2026-10-02,Midtown,33.77788,-84.37280,washer,8:00-10:00,call 30 min ahead
+HH-1750,2026-10-02,Decatur,33.78729,-84.31361,dining table,12-14,
+HH-1751,2026-10-02,Decatur,33.77115,-84.32960,dining table,16:00-18:00,
+HH-1752,2026-10-02,Smyrna,33.90285,-84.55508,refrigerator,12pm-2pm,
+HH-1753,2026-10-02,Buckhead,33.83154,-84.39530,dishwasher; sofa; washer,8am-10am,gate code 4411
+HH-1754,2026-10-02,Sandy Springs,33.91587,-84.35594,washer; dresser,10:00-12:00,3rd floor walk-up
+HH-1755,2026-10-02,Marietta,33.92322,-84.54400,armchair,14:00-16:00,call 30 min ahead
+HH-1756,2026-10-02,Sandy Springs,33.92139,-84.37718,sectional; mattress,8am-10am,3rd floor walk-up
+HH-1757,2026-10-02,Kirkwood,,,washer,8:00-10:00,3rd floor walk-up
+HH-1758,2026-10-02,Roswell,33.99977,-84.36842,dryer; mattress,10am-12pm,
+HH-1759,2026-10-02,Alpharetta,34.08613,-84.30045,washer; sectional; sofa,8am-10am,
+HH-1760,2026-10-02,Dunwoody,33.95825,-84.34793,washer,16-18,"2nd floor, no elevator"
+HH-1761,2026-10-02,Peachtree Corners,33.97473,-84.22007,mattress,16-18,
+HH-1762,2026-10-02,Brookhaven,,,refrigerator; dryer,14-16,
+HH-1763,2026-10-05,Brookhaven,33.85763,-84.32448,dishwasher,8am-10am,3rd floor walk-up
+HH-1764,2026-10-05,Marietta,33.96420,-84.57149,mattress; sofa; refrigerator,12:00-14:00,
+HH-1765,2026-10-05,Sandy Springs,33.94336,-84.34914,dining table; range; bed frame,4pm-6pm,"2nd floor, no elevator"
+HH-1766,2026-10-05,Kirkwood,33.74552,-84.32692,dining table; washer; bed frame,14:00-16:00,3rd floor walk-up
+HH-1767,2026-10-05,Alpharetta,34.09379,-84.28781,armchair; bed frame,2pm-4pm,"2nd floor, no elevator"
+HH-1768,2026-10-05,Midtown,33.78458,-84.40645,refrigerator,2pm-4pm,
+HH-1769,2026-10-05,Marietta,33.97491,-84.59104,sofa,16-18,3rd floor walk-up
+HH-1770,2026-10-05,Alpharetta,34.06294,-84.29141,refrigerator; washer; dryer,8:00-10:00,gate code 4411
+HH-1771,2026-10-05,Peachtree Corners,33.96892,-84.25003,sofa; dryer,8am-10am,"2nd floor, no elevator"
+HH-1772,2026-10-05,Roswell,34.03453,-84.34269,bed frame,8am-10am,gate code 4411
+HH-1773,2026-10-05,West End,33.74890,-84.37901,sofa,2pm-4pm,
+HH-1774,2026-10-05,Roswell,34.02181,-84.36819,washer,14:00-16:00,"2nd floor, no elevator"
+HH-1775,2026-10-05,Brookhaven,33.86161,-84.34116,refrigerator,14-16,
+HH-1776,2026-10-05,Marietta,33.94638,-84.53575,bed frame,14-16,"2nd floor, no elevator"
+HH-1777,2026-10-05,Marietta,33.97704,-84.56113,refrigerator; dryer; washer,8-10,call 30 min ahead
+HH-1778,2026-10-05,Tucker,33.84156,-84.19980,sectional; armchair; washer,16-18,3rd floor walk-up
+HH-1779,2026-10-05,Decatur,33.78152,-84.28883,bed frame; armchair,4pm-6pm,
+HH-1780,2026-10-05,Peachtree Corners,33.96160,-84.19327,mattress; sectional,8am-10am,
+HH-1781,2026-10-05,Kirkwood,33.74052,-84.31187,dishwasher; bed frame; sectional,8am-10am,
+HH-1782,2026-10-05,Kennesaw,34.02700,-84.60826,sectional,12pm-2pm,
+HH-1783,2026-10-05,Midtown,33.78234,-84.41592,dresser,14:00-16:00,call 30 min ahead
+HH-1784,2026-10-05,Dunwoody,33.97010,-84.32673,range; sectional,10-12,
+HH-1785,2026-10-05,Peachtree Corners,33.96245,-84.24763,armchair,8:00-10:00,gate code 4411
+HH-1786,2026-10-05,Kirkwood,33.74760,-84.30797,refrigerator; dryer,14-16,
+HH-1787,2026-10-05,Dunwoody,33.92972,-84.31208,armchair; bed frame,16:00-18:00,
+HH-1788,2026-10-05,Dunwoody,33.95656,-84.33922,refrigerator,10:00-12:00,
+HH-1789,2026-10-05,Brookhaven,33.83700,-84.33616,dining table; washer; dresser,10:00-12:00,
+HH-1790,2026-10-05,Brookhaven,33.86412,-84.37569,sectional; mattress,10-12,
+HH-1791,2026-10-05,Sandy Springs,33.94153,-84.37308,sofa; dining table,14-16,
+HH-1792,2026-10-05,Smyrna,33.85507,-84.50994,sofa; dishwasher,10am-12pm,
+HH-1793,2026-10-05,Sandy Springs,33.88870,-84.38498,armchair; range,12:00-14:00,"2nd floor, no elevator"
+HH-1794,2026-10-05,Sandy Springs,33.93787,-84.35996,dryer; armchair; bed frame,10-12,
+HH-1795,2026-10-05,Sandy Springs,33.91488,-84.37335,dryer; sofa,12-14,
+HH-1796,2026-10-05,Brookhaven,33.88426,-84.34678,bed frame; dresser,4pm-6pm,
+HH-1797,2026-10-05,East Point,33.67716,-84.43398,mattress; range,8:00-10:00,gate code 4411
+HH-1798,2026-10-05,Alpharetta,34.08222,-84.30515,armchair; washer,14-16,gate code 4411
+HH-1799,2026-10-05,Midtown,33.76684,-84.37514,dining table; bed frame,2pm-4pm,
+HH-1800,2026-10-05,Peachtree Corners,33.95639,-84.22572,dining table; bed frame,2pm-4pm,
+HH-1801,2026-10-05,Midtown,33.78648,-84.37901,sectional; dining table,8am-10am,
+HH-1802,2026-10-05,Tucker,33.84724,-84.22161,sofa,8:00-10:00,"2nd floor, no elevator"
+HH-1803,2026-10-05,Alpharetta,34.08245,-84.26451,dresser,10am-12pm,call 30 min ahead
+HH-1803,2026-10-05,Alpharetta,34.08245,-84.26451,dresser,10am-12pm,call 30 min ahead
+HH-1804,2026-10-05,East Point,33.69129,-84.44593,bed frame; armchair,10-12,3rd floor walk-up
+HH-1805,2026-10-05,Sandy Springs,33.90280,-84.33810,sectional; dishwasher,2pm-4pm,call 30 min ahead
+HH-1806,2026-10-05,Roswell,34.02906,-84.37773,dishwasher,10:00-12:00,"2nd floor, no elevator"
+HH-1807,2026-10-05,Alpharetta,34.04962,-84.26840,mattress,12:00-14:00,call 30 min ahead
+HH-1808,2026-10-05,Tucker,33.83049,-84.20348,sofa,10-12,
+HH-1809,2026-10-05,East Point,33.67859,-84.44050,dining table,14:00-16:00,3rd floor walk-up
+HH-1810,2026-10-05,Peachtree Corners,33.97582,-84.22124,mattress; armchair; range,10am-12pm,3rd floor walk-up
+HH-1811,2026-10-05,Buckhead,33.83322,-84.36349,dining table,8:00-10:00,call 30 min ahead
+HH-1812,2026-10-05,Brookhaven,33.87218,-84.39347,sectional,8-10,
+HH-1813,2026-10-06,Decatur,33.76917,-84.30043,dryer,12pm-2pm,gate code 4411
+HH-1814,2026-10-06,Dunwoody,33.96310,-84.32893,dryer; armchair,12:00-14:00,
+HH-1815,2026-10-06,Buckhead,33.83625,-84.41042,refrigerator,14:00-16:00,
+HH-1816,2026-10-06,Brookhaven,33.86121,-84.36810,dryer; range,8:00-10:00,gate code 4411
+HH-1817,2026-10-06,Decatur,33.76888,-84.28627,dining table; armchair; refrigerator,14:00-16:00,"2nd floor, no elevator"
+HH-1817,2026-10-06,Decatur,33.76888,-84.28627,dining table; armchair; refrigerator,14:00-16:00,"2nd floor, no elevator"
+HH-1818,2026-10-06,Dunwoody,33.95614,-84.33448,dining table,12:00-14:00,
+HH-1819,2026-10-06,Brookhaven,33.86419,-84.34212,dishwasher; armchair; dining table,8-10,
+HH-1820,2026-10-06,Brookhaven,,,bed frame,14-16,
+HH-1821,2026-10-06,Tucker,,,dryer; refrigerator,8:00-10:00,
+HH-1822,2026-10-06,Peachtree Corners,33.97703,-84.24262,washer,8-10,
+HH-1823,2026-10-06,Alpharetta,34.06650,-84.31949,mattress; armchair; sectional,8-10,3rd floor walk-up
+HH-1824,2026-10-06,Marietta,33.94826,-84.57206,sofa,14:00-16:00,call 30 min ahead
+HH-1825,2026-10-06,East Point,33.68012,-84.43417,armchair; refrigerator,8-10,"2nd floor, no elevator"
+HH-1826,2026-10-06,Roswell,33.99821,-84.35564,armchair,8am-10am,gate code 4411
+HH-1827,2026-10-06,Buckhead,33.84595,-84.35855,sectional; dishwasher; sofa,8-10,
+HH-1828,2026-10-06,Brookhaven,33.86250,-84.33383,sofa; washer; sectional,14-16,
+HH-1829,2026-10-06,Marietta,33.94287,-84.55397,dryer; washer,14-16,
+HH-1830,2026-10-06,Tucker,33.86707,-84.22947,dryer; dishwasher,10:00-12:00,
+HH-1831,2026-10-06,Kirkwood,33.74084,-84.32485,dishwasher,12pm-2pm,3rd floor walk-up
+HH-1832,2026-10-06,Tucker,33.83689,-84.21677,sofa,14:00-16:00,3rd floor walk-up
+HH-1833,2026-10-06,Alpharetta,34.06897,-84.28954,dryer; bed frame; range,10am-12pm,gate code 4411
+HH-1834,2026-10-06,Buckhead,33.86119,-84.37961,refrigerator; dining table,8am-10am,
+HH-1835,2026-10-06,Midtown,33.78456,-84.37834,bed frame; armchair,16-18,"2nd floor, no elevator"
+HH-1836,2026-10-06,Kirkwood,33.75241,-84.31840,dishwasher,14:00-16:00,gate code 4411
+HH-1837,2026-10-06,Decatur,33.78103,-84.29547,sofa,8-10,
+HH-1838,2026-10-06,East Point,33.68104,-84.39757,armchair,10am-12pm,
+HH-1839,2026-10-06,Decatur,33.78480,-84.30194,dryer; dining table,10:00-12:00,call 30 min ahead
+HH-1840,2026-10-06,Brookhaven,33.86475,-84.34045,range,12-14,
+HH-1841,2026-10-06,Kirkwood,33.73556,-84.32951,dishwasher,12-14,
+HH-1842,2026-10-06,Midtown,33.77770,-84.38064,refrigerator,16-18,"2nd floor, no elevator"
+HH-1843,2026-10-06,Alpharetta,34.09515,-84.28641,armchair; washer,14-16,
+HH-1844,2026-10-06,Dunwoody,33.96357,-84.35106,refrigerator; sectional; sofa,10:00-12:00,3rd floor walk-up
+HH-1845,2026-10-06,Dunwoody,33.95289,-84.33661,washer; bed frame,12-14,
+HH-1846,2026-10-06,Buckhead,33.85094,-84.39868,sofa,10:00-12:00,
+HH-1847,2026-10-06,Roswell,34.04349,-84.35760,dresser; range,12:00-14:00,
+HH-1848,2026-10-06,Brookhaven,33.85340,-84.33827,mattress,8am-10am,gate code 4411
+HH-1849,2026-10-06,Sandy Springs,33.93958,-84.33947,dryer; bed frame; dresser,10-12,call 30 min ahead
+HH-1850,2026-10-06,Brookhaven,33.89286,-84.34758,mattress,10-12,
+HH-1851,2026-10-06,Dunwoody,33.92982,-84.29858,dishwasher; dining table; dryer,16-18,"2nd floor, no elevator"
+HH-1851,2026-10-06,Dunwoody,33.92982,-84.29858,dishwasher; dining table; dryer,16-18,"2nd floor, no elevator"
+HH-1852,2026-10-06,East Point,33.66341,-84.40399,dishwasher; sectional; dining table,4pm-6pm,3rd floor walk-up
+HH-1853,2026-10-06,Decatur,33.74840,-84.31035,range,12:00-14:00,
+HH-1854,2026-10-06,Tucker,33.84967,-84.19869,dryer,10-12,"2nd floor, no elevator"
+HH-1855,2026-10-06,Tucker,33.84477,-84.24299,dresser; bed frame,8:00-10:00,
+HH-1856,2026-10-06,Kirkwood,33.75045,-84.31146,bed frame,14:00-16:00,3rd floor walk-up
+HH-1857,2026-10-06,Brookhaven,33.86205,-84.32685,mattress; range,10:00-12:00,3rd floor walk-up
+HH-1858,2026-10-07,Sandy Springs,33.95100,-84.37706,sofa; armchair; dining table,12:00-14:00,
+HH-1859,2026-10-07,Alpharetta,34.08050,-84.29436,washer,12-14,
+HH-1860,2026-10-07,Sandy Springs,33.94923,-84.37048,dishwasher; bed frame,10am-12pm,
+HH-1861,2026-10-07,Buckhead,33.82280,-84.39900,armchair; dryer,12-14,3rd floor walk-up
+HH-1862,2026-10-07,Midtown,33.78688,-84.39676,sectional,10am-12pm,"2nd floor, no elevator"
+HH-1863,2026-10-07,Buckhead,33.83676,-84.40229,dishwasher,8:00-10:00,gate code 4411
+HH-1864,2026-10-07,Brookhaven,33.85665,-84.31109,dining table; bed frame,12pm-2pm,gate code 4411
+HH-1865,2026-10-07,Sandy Springs,33.92466,-84.39165,refrigerator,10-12,
+HH-1866,2026-10-07,Tucker,33.87039,-84.21881,dining table; dishwasher; washer,16-18,
+HH-1867,2026-10-07,Brookhaven,33.86606,-84.30426,dresser,10:00-12:00,
+HH-1868,2026-10-07,Alpharetta,34.07543,-84.31121,refrigerator,10:00-12:00,
+HH-1869,2026-10-07,Roswell,34.02951,-84.37676,sofa,8am-10am,gate code 4411
+HH-1870,2026-10-07,East Point,33.66432,-84.40516,sectional,16:00-18:00,
+HH-1871,2026-10-07,Buckhead,33.86577,-84.37666,bed frame; range; mattress,4pm-6pm,
+HH-1872,2026-10-07,Alpharetta,34.07275,-84.27028,armchair,8:00-10:00,"2nd floor, no elevator"
+HH-1873,2026-10-07,Kennesaw,34.03071,-84.61806,sofa,12:00-14:00,call 30 min ahead
+HH-1874,2026-10-07,Alpharetta,34.07373,-84.30962,dresser; mattress; washer,12:00-14:00,
+HH-1875,2026-10-07,Marietta,33.97316,-84.54405,sectional; refrigerator,12pm-2pm,"2nd floor, no elevator"
+HH-1876,2026-10-07,Dunwoody,33.95210,-84.34489,bed frame,10-12,
+HH-1877,2026-10-07,Sandy Springs,33.90217,-84.32480,range,14-16,"2nd floor, no elevator"
+HH-1878,2026-10-07,Brookhaven,33.86152,-84.32636,sectional,2pm-4pm,call 30 min ahead
+HH-1879,2026-10-07,Roswell,34.01867,-84.36862,bed frame,2pm-4pm,3rd floor walk-up
+HH-1880,2026-10-07,Buckhead,33.83996,-84.39838,dining table; range,12:00-14:00,gate code 4411
+HH-1881,2026-10-07,Buckhead,33.83614,-84.39905,washer,10:00-12:00,"2nd floor, no elevator"
+HH-1882,2026-10-07,Marietta,33.93904,-84.53990,dresser,10:00-12:00,
+HH-1883,2026-10-07,Midtown,33.77256,-84.38450,bed frame; mattress,10-12,
+HH-1884,2026-10-07,Brookhaven,33.86254,-84.35926,dishwasher,12pm-2pm,call 30 min ahead
+HH-1885,2026-10-07,Kirkwood,33.74815,-84.30672,armchair; sofa; dryer,12-14,
+HH-1886,2026-10-07,Peachtree Corners,33.95581,-84.20577,dresser,10am-12pm,gate code 4411
+HH-1887,2026-10-07,Midtown,33.78101,-84.35347,armchair; bed frame,12-14,
+HH-1888,2026-10-07,Dunwoody,33.94412,-84.36373,bed frame,14-16,3rd floor walk-up
+HH-1889,2026-10-07,Sandy Springs,33.93553,-84.38279,dishwasher; armchair,8-10,call 30 min ahead
+HH-1890,2026-10-07,Buckhead,33.83573,-84.35377,dresser; sectional,10am-12pm,gate code 4411
+HH-1891,2026-10-07,Brookhaven,33.86103,-84.33948,range,12-14,
+HH-1892,2026-10-07,Brookhaven,33.87079,-84.33769,refrigerator,8-10,
+HH-1893,2026-10-07,West End,33.73116,-84.40571,bed frame,10:00-12:00,
+HH-1894,2026-10-07,Marietta,33.94910,-84.55945,dishwasher; sectional,12pm-2pm,gate code 4411
+HH-1895,2026-10-07,Roswell,34.01993,-84.35896,refrigerator,10-12,"2nd floor, no elevator"
+HH-1896,2026-10-07,Tucker,33.84643,-84.22336,mattress,8:00-10:00,
+HH-1897,2026-10-07,Marietta,33.95446,-84.55958,dining table; armchair,10:00-12:00,gate code 4411
+HH-1898,2026-10-07,Peachtree Corners,33.96547,-84.20732,bed frame,16:00-18:00,gate code 4411
+HH-1899,2026-10-07,Alpharetta,34.06977,-84.29835,mattress,16:00-18:00,"2nd floor, no elevator"
+HH-1900,2026-10-07,Alpharetta,34.05828,-84.30345,bed frame; armchair; dining table,8-10,call 30 min ahead
+HH-1901,2026-10-08,Midtown,33.77995,-84.38771,sofa; dining table,14-16,
+HH-1902,2026-10-08,Decatur,33.76786,-84.27501,refrigerator; dresser,10-12,3rd floor walk-up
+HH-1903,2026-10-08,Smyrna,33.90636,-84.49447,dishwasher,10am-12pm,call 30 min ahead
+HH-1904,2026-10-08,East Point,33.68397,-84.40005,bed frame; dryer,10:00-12:00,
+HH-1905,2026-10-08,Sandy Springs,33.94031,-84.39296,refrigerator; sectional,12:00-14:00,"2nd floor, no elevator"
+HH-1906,2026-10-08,Midtown,33.76153,-84.39228,dishwasher,8:00-10:00,
+HH-1907,2026-10-08,Dunwoody,33.96365,-84.34501,washer,2pm-4pm,
+HH-1908,2026-10-08,Marietta,33.92179,-84.58474,mattress,10am-12pm,
+HH-1909,2026-10-08,Midtown,33.77668,-84.41362,armchair,10-12,
+HH-1910,2026-10-08,West End,33.73270,-84.39861,sectional,12-14,call 30 min ahead
+HH-1911,2026-10-08,Sandy Springs,33.96451,-84.36999,dishwasher,10:00-12:00,"2nd floor, no elevator"
+HH-1912,2026-10-08,Buckhead,33.82366,-84.37068,sectional,8-10,
+HH-1913,2026-10-08,Marietta,33.97119,-84.52920,bed frame; dresser,14:00-16:00,
+HH-1914,2026-10-08,Decatur,33.77333,-84.29206,armchair; dishwasher; range,12pm-2pm,"2nd floor, no elevator"
+HH-1915,2026-10-08,Brookhaven,33.85782,-84.31947,refrigerator,12-14,
+HH-1916,2026-10-08,Sandy Springs,33.91261,-84.36289,dresser; washer; dryer,14-16,gate code 4411
+HH-1917,2026-10-08,Buckhead,33.82473,-84.41905,refrigerator; sofa,8am-10am,"2nd floor, no elevator"
+HH-1918,2026-10-08,East Point,33.71010,-84.45121,range; bed frame; washer,16:00-18:00,
+HH-1919,2026-10-08,Decatur,33.75162,-84.28911,mattress; sofa; bed frame,8:00-10:00,
+HH-1920,2026-10-08,Buckhead,33.81605,-84.39268,dishwasher,12-14,
+HH-1921,2026-10-08,Dunwoody,33.94178,-84.33668,sectional,12:00-14:00,3rd floor walk-up
+HH-1922,2026-10-08,Brookhaven,33.85731,-84.35777,bed frame,12:00-14:00,
+HH-1923,2026-10-08,Midtown,33.76707,-84.37466,range,8-10,
+HH-1924,2026-10-08,Midtown,33.79449,-84.37498,washer,14-16,3rd floor walk-up
+HH-1925,2026-10-08,Kennesaw,34.02988,-84.58794,range,14-16,gate code 4411
+HH-1926,2026-10-08,Midtown,33.79897,-84.39055,range,8-10,gate code 4411
+HH-1927,2026-10-08,Dunwoody,33.93222,-84.34249,dryer,4pm-6pm,"2nd floor, no elevator"
+HH-1928,2026-10-08,Kirkwood,33.74889,-84.30387,sofa; refrigerator,8:00-10:00,"2nd floor, no elevator"
+HH-1929,2026-10-08,Midtown,33.77457,-84.37909,armchair,12pm-2pm,
+HH-1930,2026-10-08,Alpharetta,34.10942,-84.26607,sofa; sectional,14:00-16:00,"2nd floor, no elevator"
+HH-1931,2026-10-08,Kirkwood,33.75959,-84.33080,washer; refrigerator,2pm-4pm,gate code 4411
+HH-1932,2026-10-08,Midtown,33.75809,-84.36990,sectional; mattress; armchair,12:00-14:00,
+HH-1933,2026-10-08,Peachtree Corners,33.96007,-84.22633,refrigerator; bed frame; dishwasher,10-12,call 30 min ahead
+HH-1934,2026-10-08,Marietta,33.94145,-84.52938,sofa; mattress,2pm-4pm,3rd floor walk-up
+HH-1935,2026-10-08,Kennesaw,34.02759,-84.61691,dryer; bed frame,12pm-2pm,3rd floor walk-up
+HH-1936,2026-10-08,Alpharetta,34.09662,-84.29990,dryer,16-18,
+HH-1937,2026-10-08,Brookhaven,33.89370,-84.34136,sectional,8am-10am,
+HH-1938,2026-10-08,Sandy Springs,33.95681,-84.37153,dining table; washer,10:00-12:00,gate code 4411
+HH-1939,2026-10-08,Decatur,33.77652,-84.24467,dishwasher,12pm-2pm,
+HH-1940,2026-10-08,Sandy Springs,33.94546,-84.35640,bed frame; dresser; washer,14-16,call 30 min ahead
+HH-1941,2026-10-08,Tucker,33.87083,-84.20584,mattress,8-10,
+HH-1942,2026-10-08,Buckhead,33.83730,-84.36558,mattress,16-18,
+HH-1943,2026-10-08,Midtown,33.74460,-84.39088,washer; dishwasher,12pm-2pm,"2nd floor, no elevator"
+HH-1944,2026-10-08,Midtown,33.77150,-84.38052,washer,10:00-12:00,
+HH-1945,2026-10-08,Kirkwood,33.73644,-84.31498,dining table,12:00-14:00,
+HH-1946,2026-10-08,Buckhead,33.84150,-84.36432,refrigerator; range,10am-12pm,
+HH-1947,2026-10-08,Kennesaw,34.03883,-84.63513,sectional; dryer,10am-12pm,
+HH-1948,2026-10-09,Buckhead,33.80882,-84.38804,sofa,8:00-10:00,3rd floor walk-up
+HH-1949,2026-10-09,Alpharetta,34.07599,-84.31979,sofa; refrigerator; dresser,14:00-16:00,
+HH-1950,2026-10-09,Smyrna,33.88059,-84.50749,dresser; washer; range,4pm-6pm,call 30 min ahead
+HH-1951,2026-10-09,Sandy Springs,33.93440,-84.37145,bed frame,10-12,
+HH-1952,2026-10-09,Buckhead,33.83233,-84.39882,dresser; range,8-10,call 30 min ahead
+HH-1953,2026-10-09,Roswell,34.03142,-84.35855,washer,12-14,3rd floor walk-up
+HH-1954,2026-10-09,Marietta,33.94575,-84.53943,dining table; dishwasher,14-16,
+HH-1955,2026-10-09,Dunwoody,33.92678,-84.29694,dryer,12:00-14:00,
+HH-1956,2026-10-09,Decatur,33.76800,-84.26361,sofa,14-16,
+HH-1957,2026-10-09,Sandy Springs,33.94015,-84.39265,armchair; range; dishwasher,12-14,
+HH-1958,2026-10-09,Sandy Springs,33.92996,-84.39180,dresser,12pm-2pm,gate code 4411
+HH-1959,2026-10-09,Dunwoody,33.94025,-84.34657,dishwasher,8am-10am,gate code 4411
+HH-1960,2026-10-09,Peachtree Corners,33.97059,-84.23487,range,10am-12pm,3rd floor walk-up
+HH-1961,2026-10-09,Brookhaven,33.88586,-84.30801,sofa; dining table,10am-12pm,gate code 4411
+HH-1962,2026-10-09,Buckhead,33.85298,-84.41025,refrigerator,12pm-2pm,call 30 min ahead
+HH-1963,2026-10-09,Alpharetta,34.07181,-84.34602,bed frame; refrigerator,14:00-16:00,
+HH-1964,2026-10-09,Kennesaw,34.02939,-84.60342,armchair; refrigerator; sofa,14-16,
+HH-1965,2026-10-09,Kirkwood,33.76743,-84.33547,dishwasher; sofa,16-18,gate code 4411
+HH-1966,2026-10-09,Smyrna,33.89697,-84.49713,dryer,10am-12pm,"2nd floor, no elevator"
+HH-1967,2026-10-09,Tucker,33.86039,-84.19461,refrigerator; armchair,8am-10am,
+HH-1968,2026-10-09,Alpharetta,34.06531,-84.26913,refrigerator,10am-12pm,
+HH-1969,2026-10-09,Buckhead,33.86250,-84.38842,sectional; dryer,10-12,"2nd floor, no elevator"
+HH-1970,2026-10-09,Decatur,33.76681,-84.28662,range; sofa; dishwasher,10am-12pm,
+HH-1971,2026-10-09,Alpharetta,34.10360,-84.27509,bed frame,10:00-12:00,
+HH-1972,2026-10-09,Buckhead,33.85717,-84.37010,mattress; sofa,10-12,
+HH-1973,2026-10-09,East Point,33.72407,-84.43417,bed frame,10-12,gate code 4411
+HH-1974,2026-10-09,Decatur,,,dishwasher; mattress,10-12,
+HH-1975,2026-10-09,Midtown,33.80268,-84.39719,refrigerator; washer,12pm-2pm,
+HH-1976,2026-10-09,Kirkwood,33.77690,-84.34022,refrigerator; sectional; dresser,12-14,gate code 4411
+HH-1977,2026-10-09,Alpharetta,34.08686,-84.28286,dining table,8-10,
+HH-1978,2026-10-09,Sandy Springs,33.89169,-84.39593,dryer; range,12-14,
+HH-1978,2026-10-09,Sandy Springs,33.89169,-84.39593,dryer; range,12-14,
+HH-1979,2026-10-09,Kennesaw,34.01079,-84.60459,refrigerator; range,10:00-12:00,
+HH-1980,2026-10-09,Brookhaven,33.89584,-84.34044,dining table,12:00-14:00,
+HH-1981,2026-10-09,Roswell,34.01428,-84.33814,sectional,8:00-10:00,
+HH-1982,2026-10-09,Alpharetta,34.06743,-84.34062,dining table,10-12,3rd floor walk-up
+HH-1983,2026-10-09,Sandy Springs,33.96186,-84.38012,dryer; mattress,12-14,call 30 min ahead
+HH-1984,2026-10-09,Kennesaw,34.03054,-84.63149,dresser,12pm-2pm,"2nd floor, no elevator"
+HH-1985,2026-10-09,Decatur,33.79525,-84.29777,dryer; dining table,8:00-10:00,
+HH-1986,2026-10-09,Dunwoody,33.93735,-84.32396,refrigerator; sofa,12-14,
+HH-1987,2026-10-09,East Point,33.68435,-84.44378,dining table; sectional; armchair,2pm-4pm,gate code 4411
+HH-1988,2026-10-09,Alpharetta,34.08508,-84.32208,dining table,8am-10am,call 30 min ahead
+HH-1989,2026-10-09,Smyrna,33.88209,-84.49396,dryer; dishwasher,2pm-4pm,
+HH-1990,2026-10-09,Smyrna,33.87027,-84.49444,range,12-14,
+HH-1991,2026-10-09,Midtown,,,dishwasher; bed frame,8-10,3rd floor walk-up
+HH-1992,2026-10-09,Tucker,33.83189,-84.18695,range; dryer,4pm-6pm,
+HH-1993,2026-10-09,Midtown,33.74902,-84.35553,dining table; sofa,12-14,
+HH-1994,2026-10-09,Midtown,33.76793,-84.37747,range,14:00-16:00,"2nd floor, no elevator"
+HH-1995,2026-10-09,Brookhaven,33.88637,-84.36849,refrigerator; range; dishwasher,8:00-10:00,gate code 4411

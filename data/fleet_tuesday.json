@@ -1,0 +1,17 @@
+{
+  "depot": {
+    "name": "Lakeshore Larder warehouse",
+    "neighborhood": "McKinley Park",
+    "lat": 41.8300,
+    "lon": -87.6800,
+    "note": "Measured once at the loading-dock gate; never geocoded."
+  },
+  "vehicle_types": [
+    {"type": "cargo-van", "count": 4, "owned": true,
+     "capacity_totes": 100, "payload_lb": 2400,
+     "shift_start": "06:30", "shift_end": "15:30"},
+    {"type": "cargo-van-rental", "count": 2, "owned": false,
+     "capacity_totes": 100, "payload_lb": 2400,
+     "shift_start": "06:30", "shift_end": "15:30"}
+  ]
+}

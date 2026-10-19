@@ -1,0 +1,32 @@
+{
+ "sync": [
+  {
+   "limit": 1,
+   "wall": 1.9839432320000014,
+   "solve": 1.028,
+   "cost": 1083.97,
+   "miles": 200.86,
+   "vans": 7,
+   "unassigned": 0
+  },
+  {
+   "limit": 5,
+   "wall": 5.010304775999998,
+   "solve": 5.003,
+   "cost": 1073.92,
+   "miles": 197.29,
+   "vans": 7,
+   "unassigned": 0
+  }
+ ],
+ "job": {
+  "accepted_s": 0.006828403000014305,
+  "cost": 1072.25,
+  "miles": 196.7,
+  "vans": 7,
+  "solve": 30.005
+ },
+ "metrics": "routing_plans_total 3\nrouting_plans_failed_total 0\nrouting_plans_fallback_total 0\nrouting_plans_rejected_busy_total 0\nrouting_solve_seconds_sum 36.036\nrouting_stops_total 111\nrouting_unassigned_total 0\nrouting_cost_per_stop_last 28.97972972972973\n",
+ "request_bytes": 7052,
+ "response_bytes": 4245
+}

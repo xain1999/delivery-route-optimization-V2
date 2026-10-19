@@ -1,0 +1,511 @@
+{
+ "depot": {
+  "lat": 41.83,
+  "lon": -87.68
+ },
+ "stops": [
+  {
+   "id": "order-1",
+   "location": {
+    "lat": 42.01595,
+    "lon": -87.67652
+   },
+   "demand": 9,
+   "service_min": 6.6,
+   "window_start": "13:00",
+   "window_end": "15:00",
+   "priority": 500
+  },
+  {
+   "id": "order-2",
+   "location": {
+    "lat": 41.98338,
+    "lon": -87.6668
+   },
+   "demand": 12,
+   "service_min": 7.8,
+   "window_start": "13:00",
+   "window_end": "15:00",
+   "priority": 500
+  },
+  {
+   "id": "order-3",
+   "location": {
+    "lat": 41.96891,
+    "lon": -87.68624
+   },
+   "demand": 14,
+   "service_min": 8.6,
+   "window_start": "13:00",
+   "window_end": "15:00",
+   "priority": 500
+  },
+  {
+   "id": "order-4",
+   "location": {
+    "lat": 41.95444,
+    "lon": -87.70568
+   },
+   "demand": 8,
+   "service_min": 6.2,
+   "window_start": "07:00",
+   "window_end": "09:00",
+   "priority": 500
+  },
+  {
+   "id": "order-5",
+   "location": {
+    "lat": 41.9472,
+    "lon": -87.64736
+   },
+   "demand": 11,
+   "service_min": 7.4,
+   "window_start": "07:00",
+   "window_end": "09:00",
+   "priority": 500
+  },
+  {
+   "id": "order-6",
+   "location": {
+    "lat": 41.93996,
+    "lon": -87.70568
+   },
+   "demand": 13,
+   "service_min": 8.2,
+   "window_start": "13:00",
+   "window_end": "15:00",
+   "priority": 500
+  },
+  {
+   "id": "order-7",
+   "location": {
+    "lat": 41.92549,
+    "lon": -87.6668
+   },
+   "demand": 10,
+   "service_min": 7.0,
+   "window_start": "11:00",
+   "window_end": "13:00",
+   "priority": 500
+  },
+  {
+   "id": "order-8",
+   "location": {
+    "lat": 41.9293,
+    "lon": -87.6436
+   },
+   "demand": 7,
+   "service_min": 5.8,
+   "window_start": "07:00",
+   "window_end": "09:00",
+   "priority": 500
+  },
+  {
+   "id": "order-9",
+   "location": {
+    "lat": 41.92549,
+    "lon": -87.65222
+   },
+   "demand": 9,
+   "service_min": 6.6,
+   "window_start": "13:00",
+   "window_end": "15:00",
+   "priority": 500
+  },
+  {
+   "id": "order-10",
+   "location": {
+    "lat": 41.91102,
+    "lon": -87.67652
+   },
+   "demand": 20,
+   "service_min": 11.0,
+   "window_start": "13:00",
+   "window_end": "15:00",
+   "priority": 500
+  },
+  {
+   "id": "order-11",
+   "location": {
+    "lat": 41.92549,
+    "lon": -87.72512
+   },
+   "demand": 9,
+   "service_min": 6.6,
+   "window_start": "07:00",
+   "window_end": "09:00",
+   "priority": 500
+  },
+  {
+   "id": "order-12",
+   "location": {
+    "lat": 41.90378,
+    "lon": -87.70568
+   },
+   "demand": 12,
+   "service_min": 7.8,
+   "window_start": "13:00",
+   "window_end": "15:00",
+   "priority": 500
+  },
+  {
+   "id": "order-13",
+   "location": {
+    "lat": 41.89654,
+    "lon": -87.74456
+   },
+   "demand": 6,
+   "service_min": 5.4,
+   "window_start": "07:00",
+   "window_end": "09:00",
+   "priority": 500
+  },
+  {
+   "id": "order-14",
+   "location": {
+    "lat": 41.88931,
+    "lon": -87.64736
+   },
+   "demand": 15,
+   "service_min": 9.0,
+   "window_start": "09:00",
+   "window_end": "11:00",
+   "priority": 500
+  },
+  {
+   "id": "order-15",
+   "location": {
+    "lat": 41.8676,
+    "lon": -87.62549
+   },
+   "demand": 18,
+   "service_min": 10.2,
+   "window_start": "13:00",
+   "window_end": "15:00",
+   "priority": 500
+  },
+  {
+   "id": "order-16",
+   "location": {
+    "lat": 41.85891,
+    "lon": -87.64736
+   },
+   "demand": 20,
+   "service_min": 11.0,
+   "window_start": "09:00",
+   "window_end": "11:00",
+   "priority": 500
+  },
+  {
+   "id": "order-17",
+   "location": {
+    "lat": 41.84631,
+    "lon": -87.70568
+   },
+   "demand": 14,
+   "service_min": 8.6,
+   "window_start": "09:00",
+   "window_end": "11:00",
+   "priority": 500
+  },
+  {
+   "id": "order-18",
+   "location": {
+    "lat": 41.83099,
+    "lon": -87.64736
+   },
+   "demand": 9,
+   "service_min": 6.6,
+   "window_start": "07:00",
+   "window_end": "09:00",
+   "priority": 500
+  },
+  {
+   "id": "order-19",
+   "location": {
+    "lat": 41.85312,
+    "lon": -87.62792
+   },
+   "demand": 12,
+   "service_min": 7.8,
+   "window_start": "13:00",
+   "window_end": "15:00",
+   "priority": 500
+  },
+  {
+   "id": "order-20",
+   "location": {
+    "lat": 41.81694,
+    "lon": -87.6182
+   },
+   "demand": 17,
+   "service_min": 9.8,
+   "window_start": "09:00",
+   "window_end": "11:00",
+   "priority": 500
+  },
+  {
+   "id": "order-21",
+   "location": {
+    "lat": 41.79523,
+    "lon": -87.59876
+   },
+   "demand": 11,
+   "service_min": 7.4,
+   "window_start": "07:00",
+   "window_end": "09:00",
+   "priority": 500
+  },
+  {
+   "id": "order-22",
+   "location": {
+    "lat": 41.78076,
+    "lon": -87.60848
+   },
+   "demand": 7,
+   "service_min": 5.8,
+   "window_start": "13:00",
+   "window_end": "15:00",
+   "priority": 500
+  },
+  {
+   "id": "order-23",
+   "location": {
+    "lat": 41.76628,
+    "lon": -87.57932
+   },
+   "demand": 13,
+   "service_min": 8.2,
+   "window_start": "13:00",
+   "window_end": "15:00",
+   "priority": 500
+  },
+  {
+   "id": "order-24",
+   "location": {
+    "lat": 41.75181,
+    "lon": -87.6182
+   },
+   "demand": 15,
+   "service_min": 9.0,
+   "window_start": "09:00",
+   "window_end": "11:00",
+   "priority": 500
+  },
+  {
+   "id": "order-25",
+   "location": {
+    "lat": 41.78076,
+    "lon": -87.6668
+   },
+   "demand": 9,
+   "service_min": 6.6,
+   "window_start": "13:00",
+   "window_end": "15:00",
+   "priority": 500
+  },
+  {
+   "id": "order-26",
+   "location": {
+    "lat": 41.8097,
+    "lon": -87.6668
+   },
+   "demand": 16,
+   "service_min": 9.4,
+   "window_start": "13:00",
+   "window_end": "15:00",
+   "priority": 500
+  },
+  {
+   "id": "order-27",
+   "location": {
+    "lat": 41.79523,
+    "lon": -87.70568
+   },
+   "demand": 12,
+   "service_min": 7.8,
+   "window_start": "07:00",
+   "window_end": "09:00",
+   "priority": 500
+  },
+  {
+   "id": "order-28",
+   "location": {
+    "lat": 41.79523,
+    "lon": -87.74456
+   },
+   "demand": 10,
+   "service_min": 7.0,
+   "window_start": "11:00",
+   "window_end": "13:00",
+   "priority": 500
+  },
+  {
+   "id": "order-29",
+   "location": {
+    "lat": 41.95444,
+    "lon": -87.764
+   },
+   "demand": 11,
+   "service_min": 7.4,
+   "window_start": "13:00",
+   "window_end": "15:00",
+   "priority": 500
+  },
+  {
+   "id": "order-30",
+   "location": {
+    "lat": 41.93996,
+    "lon": -87.80288
+   },
+   "demand": 8,
+   "service_min": 6.2,
+   "window_start": "07:00",
+   "window_end": "09:00",
+   "priority": 500
+  },
+  {
+   "id": "order-31",
+   "location": {
+    "lat": 41.99786,
+    "lon": -87.69596
+   },
+   "demand": 10,
+   "service_min": 7.0,
+   "window_start": "07:00",
+   "window_end": "09:00",
+   "priority": 500
+  },
+  {
+   "id": "order-32",
+   "location": {
+    "lat": 41.8378,
+    "lon": -87.68624
+   },
+   "demand": 6,
+   "service_min": 5.4,
+   "window_start": "09:00",
+   "window_end": "11:00",
+   "priority": 500
+  },
+  {
+   "id": "order-33",
+   "location": {
+    "lat": 41.95444,
+    "lon": -87.73484
+   },
+   "demand": 12,
+   "service_min": 7.8,
+   "window_start": "11:00",
+   "window_end": "13:00",
+   "priority": 500
+  },
+  {
+   "id": "order-34",
+   "location": {
+    "lat": 41.88207,
+    "lon": -87.63521
+   },
+   "demand": 70,
+   "service_min": 31.0,
+   "window_start": "09:00",
+   "window_end": "11:00",
+   "priority": 500
+  },
+  {
+   "id": "order-35",
+   "location": {
+    "lat": 41.88207,
+    "lon": -87.63521
+   },
+   "demand": 70,
+   "service_min": 31.0,
+   "window_start": "09:00",
+   "window_end": "11:00",
+   "priority": 500
+  },
+  {
+   "id": "order-36",
+   "location": {
+    "lat": 41.9417,
+    "lon": -87.6712
+   },
+   "demand": 10,
+   "service_min": 7.0,
+   "window_start": "09:00",
+   "window_end": "11:00",
+   "priority": 500
+  },
+  {
+   "id": "order-37",
+   "location": {
+    "lat": 41.76628,
+    "lon": -87.58904
+   },
+   "demand": 9,
+   "service_min": 6.6,
+   "window_start": "07:00",
+   "window_end": "09:00",
+   "priority": 500
+  }
+ ],
+ "vehicles": [
+  {
+   "id": "van-1",
+   "capacity": 100,
+   "shift_start": "06:30",
+   "shift_end": "15:30",
+   "fixed_cost": 50
+  },
+  {
+   "id": "van-2",
+   "capacity": 100,
+   "shift_start": "06:30",
+   "shift_end": "15:30",
+   "fixed_cost": 50
+  },
+  {
+   "id": "van-3",
+   "capacity": 100,
+   "shift_start": "06:30",
+   "shift_end": "15:30",
+   "fixed_cost": 50
+  },
+  {
+   "id": "van-4",
+   "capacity": 100,
+   "shift_start": "06:30",
+   "shift_end": "15:30",
+   "fixed_cost": 50
+  },
+  {
+   "id": "van-5",
+   "capacity": 100,
+   "shift_start": "06:30",
+   "shift_end": "15:30",
+   "fixed_cost": 50
+  },
+  {
+   "id": "van-6",
+   "capacity": 100,
+   "shift_start": "06:30",
+   "shift_end": "15:30",
+   "fixed_cost": 50
+  },
+  {
+   "id": "van-7",
+   "capacity": 100,
+   "shift_start": "06:30",
+   "shift_end": "15:30",
+   "fixed_cost": 50
+  },
+  {
+   "id": "van-8",
+   "capacity": 100,
+   "shift_start": "06:30",
+   "shift_end": "15:30",
+   "fixed_cost": 50
+  }
+ ],
+ "time_limit_s": 5.0
+}

@@ -1,0 +1,441 @@
+{
+ "worked": {
+  "ids": [
+   4,
+   6,
+   18,
+   21,
+   26,
+   29
+  ],
+  "names": [
+   "Lakeshore Larder warehouse",
+   "4000 N KEDZIE AVE",
+   "3200 W BELMONT AVE",
+   "3500 S HALSTED ST",
+   "5500 S WOODLAWN AVE",
+   "4700 S ASHLAND AVE",
+   "4000 N CENTRAL AVE"
+  ],
+  "q": [
+   0,
+   8,
+   13,
+   9,
+   11,
+   16,
+   11
+  ],
+  "Q": 30,
+  "m": 4,
+  "lat": [
+   41.83,
+   41.95444,
+   41.93996,
+   41.83099,
+   41.79523,
+   41.8097,
+   41.95444
+  ],
+  "lon": [
+   -87.68,
+   -87.70568,
+   -87.70568,
+   -87.64736,
+   -87.59876,
+   -87.6668,
+   -87.764
+  ],
+  "n_routes": 25,
+  "opt_mi": 63.32020997375328,
+  "routes": [
+   [
+    0,
+    6,
+    0
+   ],
+   [
+    0,
+    5,
+    4,
+    0
+   ],
+   [
+    0,
+    3,
+    1,
+    2,
+    0
+   ]
+  ],
+  "lp0_mi": 30.271961743418434,
+  "lp0_x": {
+   "0-3": 2.0,
+   "0-4": 2.0,
+   "0-5": 2.0,
+   "1-2": 1.0,
+   "1-6": 1.0,
+   "2-6": 1.0
+  },
+  "lp1_mi": 63.19862834380551,
+  "lp1_rounds": 6,
+  "lp1_cuts": 8,
+  "sp_lp_mi": 54.161819971367215,
+  "sp_lpk_mi": 54.79033693231528,
+  "sp_lp_vans": null,
+  "ip_mi": 63.32020997375328,
+  "ip_rounds": 6,
+  "ip_cuts": 5,
+  "by_size": {
+   "1": 6,
+   "2": 15,
+   "3": 4,
+   "4": 0,
+   "5": 0,
+   "6": 0
+  }
+ },
+ "cvrp": [
+  {
+   "k": 3,
+   "n": 8,
+   "Q": 41,
+   "routes_enumerated": 70,
+   "t_enum": 0.0012323870000727766,
+   "t_sp": 0.00931210999999621,
+   "opt_mi": 58.7984918078422,
+   "vans": 3,
+   "gap_lp0": 18.00331829181946,
+   "gap_rci": 0.0,
+   "rci_rounds": 2,
+   "gap_sp": 0.0,
+   "gap_spk": 0.0,
+   "ip_seconds": 0.013775343000020257,
+   "ip_rounds": 3,
+   "ip_ok": true,
+   "ortools_gap": -0.0
+  },
+  {
+   "k": 3,
+   "n": 10,
+   "Q": 50,
+   "routes_enumerated": 271,
+   "t_enum": 0.005404113999929905,
+   "t_sp": 0.04892839100000401,
+   "opt_mi": 62.859773920305415,
+   "vans": 3,
+   "gap_lp0": 38.00005931022212,
+   "gap_rci": 0.0,
+   "rci_rounds": 3,
+   "gap_sp": 4.45024366616253,
+   "gap_spk": 4.45024366616253,
+   "ip_seconds": 1.0048978940000097,
+   "ip_rounds": 20,
+   "ip_ok": true,
+   "ortools_gap": -0.0
+  },
+  {
+   "k": 3,
+   "n": 12,
+   "Q": 54,
+   "routes_enumerated": 996,
+   "t_enum": 0.05744640000000345,
+   "t_sp": 0.1068102460000091,
+   "opt_mi": 77.3060327686312,
+   "vans": 3,
+   "gap_lp0": 26.925859241873773,
+   "gap_rci": 0.0,
+   "rci_rounds": 3,
+   "gap_sp": 1.6091695334855158,
+   "gap_spk": 1.6091695334855158,
+   "ip_seconds": 0.06922830200005592,
+   "ip_rounds": 10,
+   "ip_ok": true,
+   "ortools_gap": -0.0
+  },
+  {
+   "k": 3,
+   "n": 14,
+   "Q": 60,
+   "routes_enumerated": 3605,
+   "t_enum": 0.2573157900000069,
+   "t_sp": 0.8483031299999766,
+   "opt_mi": 74.1954485802911,
+   "vans": 3,
+   "gap_lp0": 25.14948997537812,
+   "gap_rci": 0.0,
+   "rci_rounds": 4,
+   "gap_sp": 2.716572031556203,
+   "gap_spk": 2.716572031556203,
+   "ip_seconds": 0.23067027500007953,
+   "ip_rounds": 19,
+   "ip_ok": true,
+   "ortools_gap": -0.0
+  },
+  {
+   "k": 5,
+   "n": 8,
+   "Q": 22,
+   "routes_enumerated": 20,
+   "t_enum": 0.0020474330000297414,
+   "t_sp": 0.0017361389999450694,
+   "opt_mi": 84.34927523264138,
+   "vans": 5,
+   "gap_lp0": 16.50496880225714,
+   "gap_rci": 0.0,
+   "rci_rounds": 5,
+   "gap_sp": 0.8589508423758905,
+   "gap_spk": 0.8589508423758905,
+   "ip_seconds": 0.08308697899997242,
+   "ip_rounds": 18,
+   "ip_ok": true,
+   "ortools_gap": -0.0
+  },
+  {
+   "k": 5,
+   "n": 10,
+   "Q": 30,
+   "routes_enumerated": 49,
+   "t_enum": 0.00046799199992619833,
+   "t_sp": 0.006365165000033812,
+   "opt_mi": 95.82600115326493,
+   "vans": 6,
+   "gap_lp0": 34.688782689327375,
+   "gap_rci": 6.084608052289955,
+   "rci_rounds": 7,
+   "gap_sp": 3.7126905594065542,
+   "gap_spk": 3.7126905594065542,
+   "ip_seconds": 26.757031929999926,
+   "ip_rounds": 86,
+   "ip_ok": true,
+   "ortools_gap": -0.0
+  },
+  {
+   "k": 5,
+   "n": 12,
+   "Q": 30,
+   "routes_enumerated": 129,
+   "t_enum": 0.0010371859999622757,
+   "t_sp": 0.007927007000034791,
+   "opt_mi": 94.11101666268989,
+   "vans": 5,
+   "gap_lp0": 34.313369471203046,
+   "gap_rci": 0.0,
+   "rci_rounds": 4,
+   "gap_sp": 0.0,
+   "gap_spk": 0.0,
+   "ip_seconds": 13.458737262,
+   "ip_rounds": 46,
+   "ip_ok": true,
+   "ortools_gap": -0.0
+  },
+  {
+   "k": 5,
+   "n": 14,
+   "Q": 37,
+   "routes_enumerated": 363,
+   "t_enum": 0.0035334430000375505,
+   "t_sp": 0.023775733999968907,
+   "opt_mi": 90.23428179432116,
+   "vans": 5,
+   "gap_lp0": 41.56716109573193,
+   "gap_rci": 0.0,
+   "rci_rounds": 6,
+   "gap_sp": 0.0,
+   "gap_spk": 0.0,
+   "ip_seconds": 92.816132133,
+   "ip_rounds": 101,
+   "ip_ok": true,
+   "ortools_gap": -0.0
+  }
+ ],
+ "tsp": [
+  {
+   "n": 10,
+   "opt_mi": 36.71123140857393,
+   "dfj": {
+    "lp_gap": 0.0,
+    "seconds": 0.0215512969999736,
+    "status": "optimal",
+    "rounds": 3,
+    "cuts": 8,
+    "final_gap": 0.0,
+    "found_opt": true
+   },
+   "scf": {
+    "lp_gap": 13.787173541409249,
+    "seconds": 0.10723395200000141,
+    "status": "optimal",
+    "rounds": 0,
+    "cuts": 0,
+    "final_gap": 0.0,
+    "found_opt": true
+   },
+   "mtz": {
+    "lp_gap": 17.237013591509953,
+    "seconds": 0.06981049899991376,
+    "status": "optimal",
+    "rounds": 0,
+    "cuts": 0,
+    "final_gap": 0.0,
+    "found_opt": true
+   }
+  },
+  {
+   "n": 20,
+   "opt_mi": 64.16838165115723,
+   "dfj": {
+    "lp_gap": 0.0,
+    "seconds": 0.1382553990000588,
+    "status": "optimal",
+    "rounds": 6,
+    "cuts": 19,
+    "final_gap": 0.0,
+    "found_opt": true
+   },
+   "scf": {
+    "lp_gap": 17.338794798051694,
+    "seconds": 1.2156146469999385,
+    "status": "optimal",
+    "rounds": 0,
+    "cuts": 0,
+    "final_gap": 0.0,
+    "found_opt": true
+   },
+   "mtz": {
+    "lp_gap": 22.30548373664894,
+    "seconds": 1.9981532090000655,
+    "status": "optimal",
+    "rounds": 0,
+    "cuts": 0,
+    "final_gap": 0.0,
+    "found_opt": true
+   }
+  },
+  {
+   "n": 30,
+   "opt_mi": 70.12484589994432,
+   "dfj": {
+    "lp_gap": 0.0,
+    "seconds": 0.3565138039999738,
+    "status": "optimal",
+    "rounds": 5,
+    "cuts": 25,
+    "final_gap": 0.0,
+    "found_opt": true
+   },
+   "scf": {
+    "lp_gap": 20.114040140002654,
+    "seconds": 16.392653093000035,
+    "status": "optimal",
+    "rounds": 0,
+    "cuts": 0,
+    "final_gap": 0.0,
+    "found_opt": true
+   },
+   "mtz": {
+    "lp_gap": 23.94792728131969,
+    "seconds": 21.053661377000026,
+    "status": "optimal",
+    "rounds": 0,
+    "cuts": 0,
+    "final_gap": 0.0,
+    "found_opt": true
+   }
+  },
+  {
+   "n": 40,
+   "opt_mi": 80.41164598743339,
+   "dfj": {
+    "lp_gap": 1.110810601962754,
+    "seconds": 6.263800733000153,
+    "status": "optimal",
+    "rounds": 10,
+    "cuts": 47,
+    "final_gap": 0.0,
+    "found_opt": true
+   },
+   "scf": {
+    "lp_gap": 24.23431342245576,
+    "seconds": 80.23794375500006,
+    "status": "optimal",
+    "rounds": 0,
+    "cuts": 0,
+    "final_gap": 0.0,
+    "found_opt": true
+   },
+   "mtz": {
+    "lp_gap": 26.985627076732868,
+    "seconds": 120.01023962,
+    "status": "feasible",
+    "rounds": 0,
+    "cuts": 0,
+    "final_gap": 0.4502270990564025,
+    "found_opt": true
+   }
+  },
+  {
+   "n": 50,
+   "opt_mi": 89.82293406506005,
+   "dfj": {
+    "lp_gap": 0.07747862420100168,
+    "seconds": 8.074872299999925,
+    "status": "optimal",
+    "rounds": 7,
+    "cuts": 48,
+    "final_gap": 0.0,
+    "found_opt": true
+   },
+   "scf": {
+    "lp_gap": 24.291527159024877,
+    "seconds": 120.01237428899981,
+    "status": "feasible",
+    "rounds": 0,
+    "cuts": 0,
+    "final_gap": 1.8757542821210789,
+    "found_opt": false
+   },
+   "mtz": {
+    "lp_gap": 28.664683582832954,
+    "seconds": 120.00773086799995,
+    "status": "feasible",
+    "rounds": 0,
+    "cuts": 0,
+    "final_gap": 2.0675042111065904,
+    "found_opt": false
+   }
+  },
+  {
+   "n": 60,
+   "opt_mi": 96.53560705479997,
+   "dfj": {
+    "lp_gap": 0.2735599482488945,
+    "seconds": 14.906078031999868,
+    "status": "optimal",
+    "rounds": 11,
+    "cuts": 63,
+    "final_gap": 0.0,
+    "found_opt": true
+   },
+   "scf": {
+    "lp_gap": 24.869077427120413,
+    "seconds": 120.02685951199987,
+    "status": "feasible",
+    "rounds": 0,
+    "cuts": 0,
+    "final_gap": 65.31869673099895,
+    "found_opt": false
+   },
+   "mtz": {
+    "lp_gap": 30.13238155927025,
+    "seconds": 120.01316011499989,
+    "status": "feasible",
+    "rounds": 0,
+    "cuts": 0,
+    "final_gap": 6.76351771141709,
+    "found_opt": false
+   }
+  }
+ ],
+ "tsp_limit": 120
+}

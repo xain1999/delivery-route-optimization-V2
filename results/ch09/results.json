@@ -1,0 +1,654 @@
+{
+ "orders": 47,
+ "totes": 721,
+ "weight": 17886,
+ "club": 14,
+ "repeat": 3,
+ "value": 23878,
+ "penalties": [
+  0.0,
+  116.9,
+  122.15,
+  136.4,
+  115.925,
+  1035.9,
+  133.775,
+  125.975,
+  336.45,
+  114.275,
+  385.65,
+  123.425,
+  130.1,
+  112.55,
+  128.15,
+  140.075,
+  351.75,
+  408.29999999999995,
+  340.8,
+  126.875,
+  359.475,
+  121.775,
+  119.675,
+  134.3,
+  360.675,
+  1010.4749999999999,
+  349.2,
+  128.075,
+  335.325,
+  130.1,
+  331.95,
+  342.15,
+  113.225,
+  127.85,
+  497.7,
+  306.65,
+  122.975,
+  351.6,
+  113.0,
+  110.3,
+  114.65,
+  132.125,
+  142.775,
+  131.525,
+  117.275,
+  147.125,
+  116.825,
+  118.1
+ ],
+ "plans": {
+  "uniform": {
+   "vans": 6,
+   "miles": 208.76705042551498,
+   "paid_h": 20.940277777777776,
+   "routing": 1103.8329166567246,
+   "dropped": [
+    26,
+    34,
+    35
+   ],
+   "n_dropped": 3,
+   "served": 44,
+   "totes_dropped": 174,
+   "totes_served": 547,
+   "club_dropped": 2,
+   "repeat_dropped": 0,
+   "value_dropped": 5714,
+   "penalty": 1153.55,
+   "total": 2257.382916656725,
+   "routes": [
+    [
+     0,
+     46,
+     10,
+     9,
+     38,
+     6,
+     41,
+     12,
+     0
+    ],
+    [
+     0,
+     13,
+     30,
+     4,
+     11,
+     40,
+     14,
+     17,
+     32,
+     0
+    ],
+    [
+     0,
+     43,
+     28,
+     15,
+     19,
+     23,
+     22,
+     25,
+     0
+    ],
+    [
+     0,
+     18,
+     44,
+     21,
+     37,
+     24,
+     39,
+     20,
+     42,
+     0
+    ],
+    [
+     0,
+     16,
+     7,
+     33,
+     1,
+     2,
+     3,
+     29,
+     0
+    ],
+    [
+     0,
+     27,
+     8,
+     5,
+     47,
+     31,
+     45,
+     36,
+     0
+    ]
+   ]
+  },
+  "value": {
+   "vans": 6,
+   "miles": 200.51959059094887,
+   "paid_h": 23.38,
+   "routing": 1172.7326888491211,
+   "dropped": [
+    4,
+    9,
+    13,
+    14,
+    16,
+    25,
+    26,
+    28,
+    30,
+    31,
+    38,
+    47
+   ],
+   "n_dropped": 12,
+   "served": 35,
+   "totes_dropped": 144,
+   "totes_served": 577,
+   "club_dropped": 6,
+   "repeat_dropped": 1,
+   "value_dropped": 3856,
+   "penalty": 3422.85,
+   "total": 4595.582688849121,
+   "routes": [
+    [
+     0,
+     27,
+     11,
+     40,
+     8,
+     5,
+     36,
+     1,
+     2,
+     3,
+     0
+    ],
+    [
+     0,
+     7,
+     33,
+     29,
+     41,
+     6,
+     12,
+     19,
+     0
+    ],
+    [
+     0,
+     34,
+     20,
+     0
+    ],
+    [
+     0,
+     42,
+     35,
+     46,
+     0
+    ],
+    [
+     0,
+     18,
+     44,
+     21,
+     37,
+     24,
+     39,
+     32,
+     17,
+     0
+    ],
+    [
+     0,
+     43,
+     45,
+     10,
+     15,
+     23,
+     22,
+     0
+    ]
+   ]
+  },
+  "policy": {
+   "vans": 6,
+   "miles": 220.54824823033485,
+   "paid_h": 22.001666666666665,
+   "routing": 1145.4880186550545,
+   "dropped": [
+    33,
+    34,
+    35
+   ],
+   "n_dropped": 3,
+   "served": 44,
+   "totes_dropped": 169,
+   "totes_served": 552,
+   "club_dropped": 1,
+   "repeat_dropped": 0,
+   "value_dropped": 5696,
+   "penalty": 932.1999999999999,
+   "total": 2077.6880186550543,
+   "routes": [
+    [
+     0,
+     29,
+     3,
+     6,
+     41,
+     10,
+     12,
+     0
+    ],
+    [
+     0,
+     43,
+     28,
+     46,
+     7,
+     1,
+     2,
+     38,
+     9,
+     19,
+     0
+    ],
+    [
+     0,
+     27,
+     13,
+     30,
+     45,
+     36,
+     14,
+     16,
+     0
+    ],
+    [
+     0,
+     42,
+     23,
+     22,
+     25,
+     26,
+     15,
+     0
+    ],
+    [
+     0,
+     18,
+     44,
+     21,
+     37,
+     24,
+     39,
+     32,
+     17,
+     0
+    ],
+    [
+     0,
+     40,
+     11,
+     4,
+     31,
+     47,
+     5,
+     8,
+     20,
+     0
+    ]
+   ]
+  }
+ },
+ "mandatory_status": "ROUTING_FAIL",
+ "mean_penalty": 233.4531914893617,
+ "strategy_runs": {
+  "uniform": {
+   "SAVINGS": 1877.95157,
+   "PARALLEL_CHEAPEST_INSERTION": 2026.26286,
+   "GLOBAL_CHEAPEST_ARC": 1804.31812,
+   "LOCAL_CHEAPEST_INSERTION": 1864.59467
+  },
+  "value": {
+   "SAVINGS": 5028.87297,
+   "PARALLEL_CHEAPEST_INSERTION": 5806.05015,
+   "GLOBAL_CHEAPEST_ARC": 5410.88618,
+   "LOCAL_CHEAPEST_INSERTION": 5387.11607
+  },
+  "policy": {
+   "SAVINGS": 2077.82003,
+   "PARALLEL_CHEAPEST_INSERTION": 2712.77406,
+   "GLOBAL_CHEAPEST_ARC": 2326.28695,
+   "LOCAL_CHEAPEST_INSERTION": 2359.21481
+  }
+ },
+ "sweep": [
+  {
+   "lambda": 0,
+   "served": 0,
+   "totes_served": 0,
+   "routing": 0.0,
+   "vans": 0,
+   "club_dropped": 14
+  },
+  {
+   "lambda": 10,
+   "served": 0,
+   "totes_served": 0,
+   "routing": 0.0,
+   "vans": 0,
+   "club_dropped": 14
+  },
+  {
+   "lambda": 20,
+   "served": 0,
+   "totes_served": 0,
+   "routing": 0.0,
+   "vans": 0,
+   "club_dropped": 14
+  },
+  {
+   "lambda": 40,
+   "served": 43,
+   "totes_served": 527,
+   "routing": 1055.4141730633103,
+   "vans": 6,
+   "club_dropped": 2
+  },
+  {
+   "lambda": 60,
+   "served": 43,
+   "totes_served": 527,
+   "routing": 1054.9253287262386,
+   "vans": 6,
+   "club_dropped": 2
+  },
+  {
+   "lambda": 80,
+   "served": 44,
+   "totes_served": 554,
+   "routing": 1154.4811701562871,
+   "vans": 6,
+   "club_dropped": 2
+  },
+  {
+   "lambda": 100,
+   "served": 44,
+   "totes_served": 554,
+   "routing": 1154.4811701562871,
+   "vans": 6,
+   "club_dropped": 2
+  },
+  {
+   "lambda": 150,
+   "served": 44,
+   "totes_served": 547,
+   "routing": 1172.8298382207904,
+   "vans": 6,
+   "club_dropped": 1
+  },
+  {
+   "lambda": 250,
+   "served": 44,
+   "totes_served": 554,
+   "routing": 1204.6637034916089,
+   "vans": 6,
+   "club_dropped": 2
+  },
+  {
+   "lambda": 500,
+   "served": 44,
+   "totes_served": 547,
+   "routing": 1172.8298382207904,
+   "vans": 6,
+   "club_dropped": 1
+  },
+  {
+   "lambda": 1000,
+   "served": 44,
+   "totes_served": 547,
+   "routing": 1172.8298382207904,
+   "vans": 6,
+   "club_dropped": 1
+  },
+  {
+   "lambda": 5000,
+   "served": 44,
+   "totes_served": 547,
+   "routing": 1172.8298382207904,
+   "vans": 6,
+   "club_dropped": 1
+  }
+ ],
+ "late": {
+  "orders": 30,
+  "totes": 145,
+  "prize_all": 1855.1999999999998
+ },
+ "evening": [
+  {
+   "hours": 2,
+   "stops": 8,
+   "prize": 630.7199999999999,
+   "default_prize": 630.7199999999999,
+   "totes": 45,
+   "mip_prize": 630.72,
+   "mip_rounds": 12,
+   "mip_status": "optimal",
+   "mip_route": [
+    0,
+    16,
+    18,
+    19,
+    15,
+    13,
+    14,
+    9,
+    17,
+    0
+   ],
+   "duration_h": 1.978888888888889,
+   "miles": 19.1817287043665,
+   "cost": 136.19811381531855,
+   "net": 494.52188618468136,
+   "route": [
+    0,
+    17,
+    9,
+    14,
+    13,
+    15,
+    19,
+    18,
+    16,
+    0
+   ]
+  },
+  {
+   "hours": 3,
+   "stops": 13,
+   "prize": 981.5699999999999,
+   "default_prize": 895.4699999999999,
+   "totes": 74,
+   "mip_prize": 981.5699999999999,
+   "mip_rounds": 3,
+   "mip_status": "optimal",
+   "mip_route": [
+    0,
+    18,
+    19,
+    15,
+    13,
+    14,
+    12,
+    11,
+    5,
+    6,
+    9,
+    7,
+    10,
+    17,
+    0
+   ],
+   "duration_h": 2.9975,
+   "miles": 27.815060049312017,
+   "cost": 173.56944563747714,
+   "net": 808.0005543625227,
+   "route": [
+    0,
+    17,
+    10,
+    7,
+    9,
+    6,
+    5,
+    11,
+    12,
+    14,
+    13,
+    15,
+    19,
+    18,
+    0
+   ]
+  },
+  {
+   "hours": 4,
+   "stops": 17,
+   "prize": 1206.9299999999998,
+   "default_prize": 1152.24,
+   "totes": 90,
+   "mip_prize": 1206.93,
+   "mip_rounds": 5,
+   "mip_status": "optimal",
+   "mip_route": [
+    0,
+    18,
+    19,
+    15,
+    13,
+    14,
+    12,
+    11,
+    9,
+    6,
+    5,
+    3,
+    2,
+    4,
+    8,
+    7,
+    10,
+    17,
+    0
+   ],
+   "duration_h": 3.9194444444444443,
+   "miles": 37.042422254036424,
+   "cost": 211.3922409130677,
+   "net": 995.5377590869322,
+   "route": [
+    0,
+    17,
+    10,
+    7,
+    8,
+    4,
+    2,
+    3,
+    5,
+    6,
+    9,
+    11,
+    12,
+    14,
+    13,
+    15,
+    19,
+    18,
+    0
+   ]
+  }
+ ],
+ "worked": {
+  "rows": [
+   {
+    "drop": "A",
+    "miles": 12.0,
+    "route_cost": 33.72,
+    "saving": 0.0,
+    "pen_uniform": 100.0,
+    "pen_policy": 345.0,
+    "total_uniform": 133.72,
+    "total_policy": 378.72
+   },
+   {
+    "drop": "B",
+    "miles": 12.0,
+    "route_cost": 33.72,
+    "saving": 0.0,
+    "pen_uniform": 100.0,
+    "pen_policy": 117.5,
+    "total_uniform": 133.72,
+    "total_policy": 151.22
+   },
+   {
+    "drop": "C",
+    "miles": 6.0,
+    "route_cost": 16.86,
+    "saving": 16.86,
+    "pen_uniform": 100.0,
+    "pen_policy": 341.25,
+    "total_uniform": 116.86,
+    "total_policy": 358.11
+   }
+  ],
+  "full_miles": 12.0,
+  "orders": {
+   "A": [
+    400,
+    "club"
+   ],
+   "B": [
+    300,
+    "regular"
+   ],
+   "C": [
+    350,
+    "club"
+   ]
+  },
+  "pos": {
+   "D": 0.0,
+   "A": 2.0,
+   "B": 3.0,
+   "C": 6.0
+  }
+ }
+}

@@ -1,0 +1,6 @@
+{
+  "2600 N CLARK ST": {"lat": 41.9293, "lon": -87.6436, "precision": "verified",
+                      "source": "driver GPS at delivery, 2026-09-22"},
+  "3300 N LINCOLN AVE": {"lat": 41.9417, "lon": -87.6712, "precision": "verified",
+                         "source": "driver GPS at delivery, 2026-10-01"}
+}

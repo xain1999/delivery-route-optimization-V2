@@ -1,0 +1,32 @@
+id,name,district,lat,lon,demand,value_usd
+0,Lakeshore Larder warehouse,McKinley Park,41.83000,-87.68000,0,0
+1,Late order L01,Rogers Park,42.01018,-87.66293,5,228
+2,Late order L02,Edgewater,41.98023,-87.65534,5,209
+3,Late order L03,Uptown,41.96821,-87.64982,5,168
+4,Late order L04,Lincoln Square,41.96632,-87.68926,2,75
+5,Late order L05,Lakeview,41.93211,-87.64545,2,60
+6,Late order L06,Lincoln Park,41.92733,-87.65083,7,272
+7,Late order L07,Logan Square,41.92196,-87.71218,8,282
+8,Late order L08,Avondale,41.93665,-87.70587,4,166
+9,Late order L09,Wicker Park,41.90856,-87.67309,4,222
+10,Late order L10,Humboldt Park,41.89928,-87.71431,6,179
+11,Late order L11,Old Town,41.91254,-87.63043,6,155
+12,Late order L12,River North,41.89382,-87.63619,3,113
+13,Late order L13,The Loop,41.87939,-87.63373,8,326
+14,Late order L14,West Loop,41.88264,-87.65453,4,198
+15,Late order L15,South Loop,41.85591,-87.63168,8,308
+16,Late order L16,Pilsen,41.84938,-87.66163,3,58
+17,Late order L17,Little Village,41.85092,-87.70613,8,345
+18,Late order L18,Bridgeport,41.84533,-87.65399,5,191
+19,Late order L19,Chinatown,41.84968,-87.63246,5,188
+20,Late order L20,Bronzeville,41.82021,-87.62310,3,117
+21,Late order L21,Hyde Park,41.79218,-87.58680,4,150
+22,Late order L22,Woodlawn,41.78327,-87.59786,5,181
+23,Late order L23,South Shore,41.75767,-87.57403,3,88
+24,Late order L24,Chatham,41.73428,-87.60829,7,164
+25,Late order L25,Englewood,41.78015,-87.65269,4,96
+26,Late order L26,Back of the Yards,41.80490,-87.67017,2,77
+27,Late order L27,Gage Park,41.79538,-87.70094,8,201
+28,Late order L28,Garfield Ridge,41.78625,-87.76802,3,81
+29,Late order L29,Austin,41.89757,-87.76886,5,191
+30,Late order L30,Portage Park,41.95326,-87.75925,3,96

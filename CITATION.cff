@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the book."
+title: "Delivery Route Optimization with Python: companion code"
+authors:
+  - family-names: Hadjoudj
+    given-names: Mohammed Islam
+license: MIT
+repository-code: "https://github.com/xain1999/Delivery-Route-Optimization-with-Python"
+version: 1.0.0
+preferred-citation:
+  type: book
+  title: "Delivery Route Optimization with Python: From a First Working Planner to Production Systems"
+  authors:
+    - family-names: Hadjoudj
+      given-names: Mohammed Islam
+  year: 2026

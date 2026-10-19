@@ -1,0 +1,89 @@
+{
+ "budgets": [
+  {
+   "seconds": 5,
+   "OR-Tools": 2457340,
+   "ALNS": 2339382,
+   "PyVRP": 2340303
+  },
+  {
+   "seconds": 15,
+   "OR-Tools": 2430223,
+   "ALNS": 2338286,
+   "PyVRP": 2319397
+  },
+  {
+   "seconds": 60,
+   "OR-Tools": 2429325,
+   "ALNS": 2307303,
+   "PyVRP": 2290004
+  }
+ ],
+ "temps": [
+  {
+   "start_worse": 0.005,
+   "polish": false,
+   "m": 2348682
+  },
+  {
+   "start_worse": 0.005,
+   "polish": true,
+   "m": 2325851
+  },
+  {
+   "start_worse": 0.001,
+   "polish": false,
+   "m": 2313884
+  },
+  {
+   "start_worse": 0.001,
+   "polish": true,
+   "m": 2317332
+  },
+  {
+   "start_worse": 0.0002,
+   "polish": false,
+   "m": 2319182
+  },
+  {
+   "start_worse": 0.0002,
+   "polish": true,
+   "m": 2315644
+  }
+ ],
+ "vrptw": {
+  "pyvrp": {
+   "vans": 6,
+   "miles": 201.84932494233675,
+   "drive_h": 13.456666666666667,
+   "service_h": 5.476666666666667,
+   "wait_h": 0.0,
+   "paid_h": 18.933333333333334,
+   "cost": 1036.741486956176,
+   "cost_per_stop": 28.020040188004756
+  },
+  "iterations": 20525,
+  "ortools": {
+   "vans": 7,
+   "miles": 193.2402270738885,
+   "drive_h": 12.882777777777777,
+   "service_h": 5.476666666666667,
+   "wait_h": 0.0,
+   "paid_h": 18.359444444444446,
+   "cost": 1062.5170559094886,
+   "cost_per_stop": 28.716677186742935,
+   "blocked_pct": 36.111111111111114,
+   "unreachable": []
+  }
+ },
+ "env": {
+  "python": "3.13.16",
+  "machine": "x86_64",
+  "processor_count": 2,
+  "ortools": "9.15.6755",
+  "pyvrp": "0.14.0",
+  "numpy": "2.5.3",
+  "scipy": "1.18.1",
+  "networkx": "3.6.1"
+ }
+}

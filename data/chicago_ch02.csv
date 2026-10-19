@@ -1,0 +1,32 @@
+id,name,district,lat,lon,demand
+0,Depot (McKinley Park),McKinley Park,41.8300,-87.6800,0
+1,Rogers Park,Far North Side,42.0105,-87.6670,12
+2,Edgewater,Far North Side,41.9830,-87.6600,8
+3,Uptown,Far North Side,41.9660,-87.6530,15
+4,Lincoln Square,Far North Side,41.9680,-87.6890,18
+5,Lakeview,North Side,41.9400,-87.6530,10
+6,Lincoln Park,North Side,41.9210,-87.6480,7
+7,Logan Square,Northwest Side,41.9230,-87.7090,14
+8,Avondale,Northwest Side,41.9390,-87.7110,11
+9,Wicker Park,West Side,41.9090,-87.6770,16
+10,Humboldt Park,West Side,41.9020,-87.7210,9
+11,Old Town,North Side,41.9110,-87.6380,13
+12,River North,Central,41.8920,-87.6340,6
+13,The Loop,Central,41.8790,-87.6300,17
+14,West Loop,West Side,41.8830,-87.6500,9
+15,South Loop,Central,41.8580,-87.6260,12
+16,Pilsen,Lower West Side,41.8560,-87.6600,20
+17,Little Village,Lower West Side,41.8450,-87.7120,10
+18,Bridgeport,South Side,41.8380,-87.6510,8
+19,Chinatown,South Side,41.8520,-87.6320,14
+20,Bronzeville,South Side,41.8240,-87.6170,19
+21,Hyde Park,South Side,41.7940,-87.5900,11
+22,Woodlawn,South Side,41.7800,-87.5960,7
+23,South Shore,South Side,41.7610,-87.5760,13
+24,Chatham,Far South Side,41.7410,-87.6120,15
+25,Englewood,Southwest Side,41.7790,-87.6450,9
+26,Back of the Yards,Southwest Side,41.8070,-87.6660,16
+27,Gage Park,Southwest Side,41.7950,-87.6960,12
+28,Garfield Ridge,Southwest Side,41.7940,-87.7680,10
+29,Austin,West Side,41.8950,-87.7650,6
+30,Portage Park,Northwest Side,41.9580,-87.7650,11
